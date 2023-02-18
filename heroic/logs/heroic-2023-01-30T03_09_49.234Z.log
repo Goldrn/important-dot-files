@@ -1,0 +1,47 @@
+(22:09:49) INFO:    [Connection]:       Connectivity: check-online
+(22:09:49) INFO:    [Connection]:       Pinging external endpoints
+(22:09:49) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(22:09:49) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(22:09:49) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(22:09:49) WARNING: [Backend]:          Protocol already registered.
+(22:09:49) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(22:09:49) INFO:    [Connection]:       Connectivity: online
+(22:09:49) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(22:09:50) INFO:    [Backend]:          
+
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Arch KERNEL: 6.1.8-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 13.07 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+(22:09:50) INFO:    [Backend]:          Checking for new Heroic Updates
+(22:09:50) INFO:    [Backend]:          Checking for current version changelog
+(22:09:50) INFO:    [Frontend]:         Refreshing Library
+(22:09:50) INFO:    [Legendary]:        Refreshing library...
+(22:09:50) INFO:    [Legendary]:        Refreshing Epic Games...
+(22:09:50) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:09:50) INFO:    [Backend]:          Frontend Ready
+(22:09:50) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(22:09:52) INFO:    [Winetricks]:       Downloading Winetricks
+(22:09:55) INFO:    [Backend]:          Starting the Download Queue
+(22:09:59) INFO:    [Backend]:          Writing config for Salt
+(22:09:59) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/usr/bin/wine","name":"Wine Default - wine-8.0 (Staging)","type":"wine","wineserver":"/usr/bin/wineserver","wineboot":"/usr/bin/wineboot"} to {"bin":"/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton","name":"Proton - Proton - Experimental","type":"proton"}
+(22:10:46) INFO:    [Backend]:          Writing config for Salt
+(22:10:46) INFO:    [Backend]:          Changed config: enviromentOptions from [] to [{"key":"FNA3D_FORCE_DRIVER","value":"OpenGl"}]
+(22:10:53) INFO:    [Backend]:          Writing config for Salt
+(22:10:53) INFO:    [Backend]:          Changed config: enviromentOptions from [{"key":"FNA3D_FORCE_DRIVER","value":"OpenGl"}] to [{"key":"FNA3D_FORCE_DRIVER","value":"OpenGL"}]
+(22:11:00) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:11:00) INFO:    [Backend]:          Preventing display from sleep
+(22:11:01) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:11:01) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:11:03) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:11:03) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:11:03) INFO:    [Legendary]:        Launching Celeste: FNA3D_FORCE_DRIVER=OpenGL LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:49:49) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:49:49) INFO:    [Frontend]:         Refreshing Library
+(22:49:49) INFO:    [Legendary]:        Refreshing library...
+(22:49:49) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs

@@ -1,0 +1,35 @@
+game:
+  exe: /home/goldrn/Downloads/TSL_Mission_Vao/TSLPatcher - Install TSL Mission Vao
+    Deluxe.exe
+  prefix: /home/goldrn/Games/killme
+game_slug: killme
+name: killme
+requires: null
+script:
+  files:
+  - setupfile: N/A:Select the setup file
+  game:
+    exe: _xXx_AUTO_WIN32_xXx_
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env: {}
+      executable: /home/goldrn/Downloads/TSL_Mission_Vao/TSLPatcher - Install TSL
+        Mission Vao Deluxe.exe
+      prefix: /home/goldrn/Games/killme
+      wine_path: /home/goldrn/.local/share/lutris/runners/wine/lutris-7.2-2-x86_64/bin/wine
+  wine:
+    version: lutris-7.2-2-x86_64
+slug: killme-setup
+system:
+  disable_runtime: true
+variables: {}
+version: Setup file
+wine:
+  Desktop: false
+  Dpi: false
+  WineDesktop: 1920x1080
+  dgvoodoo2: true
+  version: lutris-GE-Proton7-27-x86_64
+year: null

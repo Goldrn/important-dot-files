@@ -1,0 +1,193 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/goldrn/.config/heroic/logs/heroic-2023-02-08T02_17_19.188Z.log",
+		"lastLogFile": "/home/goldrn/.config/heroic/logs/heroic-2023-01-30T03_09_49.234Z.log",
+		"legendaryLogFile": "/home/goldrn/.config/heroic/logs/legendary-2023-02-08T02_17_19.188Z.log",
+		"gogdlLogFile": "/home/goldrn/.config/heroic/logs/gogdl-2023-02-08T02_17_19.188Z.log"
+	},
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": true,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/goldrn/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/goldrn/.steam/steam",
+		"defaultWinePrefix": "/home/goldrn/Games/Heroic/Prefixes",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": false,
+		"useGameMode": false,
+		"userInfo": {
+			"name": "goldrn"
+		},
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/goldrn/.wine",
+		"wineVersion": {
+			"bin": "/usr/bin/wine",
+			"name": "Wine Default - wine-7.22 (Staging)",
+			"type": "wine",
+			"wineserver": "/usr/bin/wineserver",
+			"wineboot": "/usr/bin/wineboot"
+		}
+	},
+	"userHome": "/home/goldrn",
+	"language": "en",
+	"games": {
+		"recent": [
+			{
+				"appName": "Salt",
+				"title": "Celeste"
+			},
+			{
+				"appName": "Jackal",
+				"title": "Dauntless"
+			}
+		]
+	},
+	"window-props": {
+		"x": 2946,
+		"y": 20,
+		"width": 1916,
+		"height": 1058
+	},
+	"userInfo": {
+		"account_id": "9b71816f09694876a690651063b446f0",
+		"displayName": "Goldrn_",
+		"user": "goldrn"
+	},
+	"Celeste": {
+		"timestampLastFetch": "Tue Feb 07 2023 21:18:13 GMT-0500 (Eastern Standard Time)",
+		"pcgamingwiki": {
+			"steamID": "504230",
+			"howLongToBeatID": "42818",
+			"metacritic": {
+				"score": "88",
+				"urlid": "celeste"
+			},
+			"opencritic": {
+				"score": "92",
+				"urlid": "5403/celeste"
+			},
+			"igdb": {
+				"score": "91",
+				"urlid": "celeste"
+			},
+			"direct3DVersions": [
+				"9.0c",
+				"11"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"id": "42818",
+			"name": "Celeste",
+			"description": "",
+			"platforms": [
+				"Google Stadia",
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"Xbox One"
+			],
+			"imageUrl": "https://howlongtobeat.com/games/42818_Celeste.jpg",
+			"timeLabels": [
+				[
+					"Main",
+					"Main"
+				],
+				[
+					"Main + Extra",
+					"Main + Extra"
+				],
+				[
+					"Completionist",
+					"Completionist"
+				]
+			],
+			"gameplayMain": 8,
+			"gameplayMainExtra": 14,
+			"gameplayCompletionist": 37,
+			"similarity": 1,
+			"searchTerm": "Celeste",
+			"playableOn": [
+				"Google Stadia",
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"Xbox One"
+			]
+		}
+	},
+	"ABZU": {
+		"timestampLastFetch": "Tue Feb 07 2023 21:26:12 GMT-0500 (Eastern Standard Time)",
+		"pcgamingwiki": {
+			"steamID": "384190",
+			"howLongToBeatID": "20076",
+			"metacritic": {
+				"score": "83",
+				"urlid": "abzu"
+			},
+			"opencritic": {
+				"score": "80",
+				"urlid": "1607/abzu"
+			},
+			"igdb": {
+				"score": "81",
+				"urlid": "abzu--1"
+			},
+			"direct3DVersions": [
+				"11"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"id": "20076",
+			"name": "ABZÛ",
+			"description": "",
+			"platforms": [
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"Xbox One"
+			],
+			"imageUrl": "https://howlongtobeat.com/games/1402571017-abzu-logo.jpg",
+			"timeLabels": [
+				[
+					"Main",
+					"Main"
+				],
+				[
+					"Main + Extra",
+					"Main + Extra"
+				],
+				[
+					"Completionist",
+					"Completionist"
+				]
+			],
+			"gameplayMain": 2,
+			"gameplayMainExtra": 2,
+			"gameplayCompletionist": 4,
+			"similarity": 0.75,
+			"searchTerm": "ABZU",
+			"playableOn": [
+				"Nintendo Switch",
+				"PC",
+				"PlayStation 4",
+				"Xbox One"
+			]
+		}
+	}
+}

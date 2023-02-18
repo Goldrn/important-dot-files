@@ -1,0 +1,112 @@
+{
+  "app_name": "Palila",
+  "app_title": "Horace",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Palila",
+      "asset_id": "Palila",
+      "build_version": "1.8",
+      "catalog_item_id": "abad6949101348dc9735ec624259f42e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "8aa6e526d2864c108f219747ad7011e5"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-10-03T16:37:52.694Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../locallow/505 Games/Horace/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Horace"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "8aa6e526d2864c108f219747ad7011e5"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Horace",
+    "developer": "505 Games",
+    "developerId": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "endOfSupport": false,
+    "entitlementName": "abad6949101348dc9735ec624259f42e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "abad6949101348dc9735ec624259f42e",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "12033b116d2430ab4453a200042822b8",
+        "size": 463276,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-04-28T20:22:44.441Z",
+        "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/item/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1148,
+        "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+        "size": 382956,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-04-28T20:23:18.055Z",
+        "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/item/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+        "width": 860
+      }
+    ],
+    "lastModifiedDate": "2020-04-28T20:23:45.385Z",
+    "namespace": "8aa6e526d2864c108f219747ad7011e5",
+    "releaseInfo": [
+      {
+        "appId": "Palila",
+        "dateAdded": "2019-10-03T00:00:00.000Z",
+        "id": "a440573ff1fe429b871e8503e44acb60",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Horace",
+    "unsearchable": false
+  }
+}

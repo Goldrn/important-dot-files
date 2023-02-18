@@ -1,0 +1,607 @@
+{
+  "app_name": "AzaleaAlpha",
+  "app_title": "The Cycle: Frontier",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "AzaleaAlpha",
+      "asset_id": "AzaleaAlpha",
+      "build_version": "R2.7.0",
+      "catalog_item_id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+      "label_name": "Live-Windows",
+      "metadata": {
+        "installationPoolId": "98039ba5f2194689a91310a26bac796e"
+      },
+      "namespace": "azalea"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-03-13T22:11:24.381Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheCycleEarlyAccess"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "azalea"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "YAGER Development GmbH"
+      }
+    },
+    "description": "The Cycle: Frontier",
+    "developer": "YAGER",
+    "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-11T18:48:01.729Z",
+        "description": "EGS Starter Pack Audience",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "c3ac6940778b410e8a404cbc9d8a4423",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "RATING_PENDING",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c3ac6940778b410e8a404cbc9d8a4423",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 404,
+            "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+            "size": 66425,
+            "type": "ESRB",
+            "uploadedDate": "2019-06-20T19:00:17.910Z",
+            "url": "https://cdn1.epicgames.com/azalea/item/RebelGalaxyOutlaw-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+            "width": 842
+          }
+        ],
+        "lastModifiedDate": "2021-05-06T20:50:31.133Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "EGS Starter Pack Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-15T10:21:16.528Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Initiate Pack",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "08e7eadfe89148ad94738ab3f17febb1",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "08e7eadfe89148ad94738ab3f17febb1",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.924Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Initiate Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-15T10:22:07.116Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Professional Pack",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "a33cd43d2ed44988a0036aa5864ded2c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a33cd43d2ed44988a0036aa5864ded2c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.954Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Professional Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-15T10:31:59.222Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Specialist Pack",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "e911515463c743f0ba59d55306a98270",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e911515463c743f0ba59d55306a98270",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.958Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Specialist Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-15T10:32:24.194Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Elite Pack",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "19d7040dfca047c9b4d04ee93763909a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "19d7040dfca047c9b4d04ee93763909a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.927Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Elite Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-04-15T10:32:58.915Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "1000 Aurum audience",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "22c8b649670c4beb8b071a60074a7b9b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "22c8b649670c4beb8b071a60074a7b9b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.931Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "1000 Aurum audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-04-15T10:34:17.489Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "2800 Aurum audience",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "0108a30021df445aac648b3334e716a9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0108a30021df445aac648b3334e716a9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.916Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "2800 Aurum audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-04-15T10:34:59.058Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "5000 Aurum audience",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "f304a85eb1124809bc09af5b1c16069a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f304a85eb1124809bc09af5b1c16069a",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.963Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "5000 Aurum audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-04-15T10:35:28.090Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "13500 Aurum audience",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "49b891f407964ad5b861d3ba8c5e7d0d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "49b891f407964ad5b861d3ba8c5e7d0d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2022-08-24T09:00:46.938Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "13500 Aurum audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-14T12:50:05.332Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Azalea FV",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "ba9e49b641e54a50af1040ebf2bb1579",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ba9e49b641e54a50af1040ebf2bb1579",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-08T17:21:03.615Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Azalea FV",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-14T12:50:33.585Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Azalea FS",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "54a8f42656a940d8a07d0f38c3a09b06",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "54a8f42656a940d8a07d0f38c3a09b06",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-08-08T17:21:03.600Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Azalea FS",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-08-24T13:21:18.826Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Azalea PTB",
+        "developer": "YAGER",
+        "developerId": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+        "endOfSupport": false,
+        "entitlementName": "02c007ba37754aa98e3065fe82d479fb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "02c007ba37754aa98e3065fe82d479fb",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-27T20:47:38.073Z",
+        "mainGameItem": {
+          "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+          "namespace": "azalea",
+          "unsearchable": false
+        },
+        "namespace": "azalea",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Azalea PTB",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "784e5ff9c4f040a3b4d6bb5820e2df37",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "784e5ff9c4f040a3b4d6bb5820e2df37",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "41498f780de5b4a62709b004126afbc1",
+        "size": 903666,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-10-31T13:57:49.332Z",
+        "url": "https://cdn1.epicgames.com/item/azalea/EGS_TheCycleFrontier_YAGER_S1_2560x1440-41498f780de5b4a62709b004126afbc1",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "473004ea09823cc40080ab1aba6d5090",
+        "size": 220439,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-10-31T13:57:51.560Z",
+        "url": "https://cdn1.epicgames.com/item/azalea/EGS_TheCycleFrontier_YAGER_S2_1200x1600-473004ea09823cc40080ab1aba6d5090",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-10-31T13:57:56.619Z",
+    "longDescription": "The Cycle",
+    "namespace": "azalea",
+    "releaseInfo": [
+      {
+        "appId": "AzaleaAlpha",
+        "compatibleApps": [],
+        "dateAdded": "2019-03-13T00:00:00.000Z",
+        "id": "5dc9e2bacc7b4bf2aa5fee44ec2d9b4c",
+        "platform": [
+          "Windows"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "status": "ACTIVE",
+    "technicalDetails": "Renamed from Early Access - 1/13/2020",
+    "title": "The Cycle: Frontier",
+    "unsearchable": false
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "app_name": "Bustard",
+  "app_title": "The Talos Principle",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Bustard",
+      "asset_id": "Bustard",
+      "build_version": "461288",
+      "catalog_item_id": "b38ff84f6ba242e2a34f3e345d89658a",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "400cc6605aee41de88f976b587a48aa0"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-10T21:03:46.028Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TheTalosPrinciple"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "400cc6605aee41de88f976b587a48aa0"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "The Talos Principle",
+    "developer": "Devolver Digital, Inc.",
+    "developerId": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "endOfSupport": false,
+    "entitlementName": "b38ff84f6ba242e2a34f3e345d89658a",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b38ff84f6ba242e2a34f3e345d89658a",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "35f8e25cba339c5f885027620a55a102",
+        "size": 319746,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-12-20T03:26:47.049Z",
+        "url": "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/item/EGS_Croteam_TheTalosPrinciple_S1-2560x1440-2560x1440-35f8e25cba339c5f885027620a55a102.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1440,
+        "md5": "ed4a53c3bd76eddb70383025ec0f87dd",
+        "size": 161947,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-12-20T03:27:01.301Z",
+        "url": "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/item/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-1280x1440-ed4a53c3bd76eddb70383025ec0f87dd.jpg",
+        "width": 1280
+      },
+      {
+        "height": 72,
+        "md5": "69b185dca6954be199bd274ced5a79ca",
+        "size": 2644,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-12-20T03:27:11.955Z",
+        "url": "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/item/EGS_Croteam_TheTalosPrinciple_IC1-200x72-200x72-69b185dca6954be199bd274ced5a79ca.png",
+        "width": 200
+      }
+    ],
+    "lastModifiedDate": "2019-12-29T14:55:31.310Z",
+    "namespace": "400cc6605aee41de88f976b587a48aa0",
+    "releaseInfo": [
+      {
+        "appId": "Bustard",
+        "dateAdded": "2019-09-10T00:00:00.000Z",
+        "id": "68063cb2f16a4675aa5c9b31ac70f157",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "The Talos Principle",
+    "unsearchable": false
+  }
+}

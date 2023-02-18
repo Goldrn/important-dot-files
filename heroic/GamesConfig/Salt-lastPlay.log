@@ -1,0 +1,89 @@
+System Info:
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: Arch KERNEL: 6.1.9-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 10.54 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"nvidiaPrime": false,
+	"enviromentOptions": [
+		{
+			"key": "FNA3D_FORCE_DRIVER",
+			"value": "OpenGL"
+		}
+	],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton",
+		"name": "Proton - Proton - Experimental",
+		"type": "proton"
+	},
+	"winePrefix": "/home/goldrn/Games/Heroic/Prefixes/Celeste"
+}
+
+Game launched at: Tue Feb 07 2023 21:18:13 GMT-0500 (Eastern Standard Time)
+
+Legendary's config from config.ini (before Heroic's settings):
+{
+  "game_parameters": [],
+  "game_executable": "Celeste.exe",
+  "game_directory": "/home/goldrn/Games/Heroic/Celeste",
+  "launch_command": [
+    "wine"
+  ],
+  "working_directory": "/home/goldrn/Games/Heroic/Celeste",
+  "user_parameters": [],
+  "environment": {},
+  "pre_launch_command": "",
+  "pre_launch_wait": false
+}
+
+Launch Command: FNA3D_FORCE_DRIVER=OpenGL LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run" 
+
+Game Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching Salt...
+wineserver: using server-side synchronization.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+[S_API] SteamAPI_Init(): SteamAPI_IsSteamRunning() did not locate a running instance of Steam.
+[S_API FAIL] SteamAPI_Init() failed
+Controller 0: PS5 Controller
+CELESTE : 1.4.0.0
+Using EXT_swap_control_tear VSync!
+FNA3D Driver: OpenGL
+OpenGL Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
+OpenGL Driver: 4.6.0 NVIDIA 525.85.05
+OpenGL Vendor: NVIDIA Corporation
+MojoShader Profile: glsl120
+BEGIN LOAD
+ - GFX LOAD: 988ms
+ - MTN LOAD: 556ms
+Using EXT_swap_control_tear VSync!
+FULLSCREEN
+GAME DISPLAYED (in 1703ms)
+Using EXT_swap_control_tear VSync!
+ - AUDIO LOAD: 529ms
+ - GFX DATA LOAD: 57ms
+ - MTN DATA LOAD: 223ms
+ - DIA/FONT LOAD: 712ms
+ - LEVELS LOAD: 470ms
+DONE LOADING (in 3851ms)
+Using EXT_swap_control_tear VSync!

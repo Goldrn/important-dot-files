@@ -1,0 +1,64 @@
+game:
+  exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+    Games/Star Wars - KotOR2/swkotor2.exe
+  launch_configs:
+  - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+      Games/Star Wars - KotOR2/Manual.pdf
+    name: Manual
+  - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+      Games/Star Wars - KotOR2/reference card.pdf
+    name: Reference Card
+  - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+      Games/Star Wars - KotOR2/swconfig.exe
+    name: Settings
+  name: Star Wars - Knights of the Old Republic II
+game_slug: star-wars-knights-of-the-old-republic-ii-the-sith-lords
+name: "STAR WARS\u2122 Knights of the Old Republic\u2122 II: The Sith Lords\u2122"
+requires: null
+script:
+  files:
+  - goginstaller: N/A:Select the installer from GOG
+  game:
+    exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+      Games/Star Wars - KotOR2/swkotor2.exe
+    launch_configs:
+    - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+        Games/Star Wars - KotOR2/Manual.pdf
+      name: Manual
+    - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+        Games/Star Wars - KotOR2/reference card.pdf
+      name: Reference Card
+    - exe: /home/goldrn/Games/gog/star-wars-knights-of-the-old-republic-ii-the-sith-lords/drive_c/GOG
+        Games/Star Wars - KotOR2/swconfig.exe
+      name: Settings
+    name: Star Wars - Knights of the Old Republic II
+  installer:
+  - autosetup_gog_game: goginstaller
+  - copy:
+      dst: $GAMEDIR/extras
+      src: '39483'
+  - copy:
+      dst: $GAMEDIR/extras
+      src: '39493'
+  system: {}
+  wine:
+    version: lutris-7.2-2-x86_64
+service: gog
+service_id: '1421404581'
+slug: star_wars_knights_of_the_old_republic_ii_the_sith_lords
+system:
+  disable_runtime: false
+variables: {}
+version: GOG
+wine:
+  Desktop: false
+  Dpi: false
+  WineDesktop: 1920x1080
+  battleye: true
+  dgvoodoo2: true
+  eac: true
+  esync: true
+  fsr: true
+  fsync: false
+  version: lutris-7.2-2-x86_64
+year: null

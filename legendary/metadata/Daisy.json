@@ -1,0 +1,127 @@
+{
+  "app_name": "Daisy",
+  "app_title": "Drawful 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Daisy",
+      "asset_id": "Daisy",
+      "build_version": "1.0.2",
+      "catalog_item_id": "df656ca933ea44a2a68d10d9dd4b6c31",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "daisy"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-01-29T19:04:53.409Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Drawful2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceID": {
+        "type": "STRING",
+        "value": "daisy"
+      },
+      "SupportedPlatforms": {
+        "type": "STRING",
+        "value": "Windows,Mac,Win32"
+      },
+      "com.epicgames.app.developerName": {
+        "type": "STRING",
+        "value": "Jackbox Games"
+      }
+    },
+    "description": "Drawful 2",
+    "developer": "Jackbox Games, Inc.",
+    "developerId": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "endOfSupport": false,
+    "entitlementName": "df656ca933ea44a2a68d10d9dd4b6c31",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "df656ca933ea44a2a68d10d9dd4b6c31",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1450,
+        "md5": "0fb79148be5e4c7d08901d27b7051e2c",
+        "size": 348727,
+        "type": "DieselGameBox",
+        "uploadedDate": "2019-02-06T15:36:58.363Z",
+        "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg",
+        "width": 2580
+      },
+      {
+        "height": 400,
+        "md5": "8c2006c8dc78feace8c5306821d60221",
+        "size": 207612,
+        "type": "Thumbnail",
+        "uploadedDate": "2019-02-06T15:38:17.284Z",
+        "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Icon-400x400-8c2006c8dc78feace8c5306821d60221.png",
+        "width": 400
+      },
+      {
+        "height": 1024,
+        "md5": "809adc6354d8b353271b23020d9ca8da",
+        "size": 48664,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2019-02-07T16:00:13.361Z",
+        "url": "https://cdn1.epicgames.com/daisy/item/drawful2logo-1087x1024-809adc6354d8b353271b23020d9ca8da.png",
+        "width": 1087
+      },
+      {
+        "height": 1420,
+        "md5": "2ca9ae619e18388a96eaabcbb0a1af55",
+        "size": 179055,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/daisy/item/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg",
+        "width": 1280
+      }
+    ],
+    "lastModifiedDate": "2019-11-19T17:02:38.141Z",
+    "namespace": "daisy",
+    "releaseInfo": [
+      {
+        "appId": "Daisy",
+        "compatibleApps": [],
+        "dateAdded": "2019-01-29T00:00:00.000Z",
+        "id": "5007e255100c48da818eec5a4ecfd250",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ],
+        "releaseNote": "",
+        "versionTitle": ""
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Drawful 2",
+    "unsearchable": false
+  }
+}

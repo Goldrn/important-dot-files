@@ -1,0 +1,232 @@
+{
+  "app_name": "Hoatzin",
+  "app_title": "Totally Reliable Delivery Service",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Hoatzin",
+      "asset_id": "Hoatzin",
+      "build_version": "2.03.03-win",
+      "catalog_item_id": "b6494173e7534ad197dafd4d93149718",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "52b90f9a982a404781b189f6a7903226"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-12T18:24:18.128Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "TRDeliveryService"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "52b90f9a982a404781b189f6a7903226"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "true"
+      }
+    },
+    "description": "Totally Reliable Delivery Service",
+    "developer": "tinyBuild Games",
+    "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-27T20:48:53.165Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Dress Code Audience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "1856418ff23e40f7b95cacbaab2caf20",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1856418ff23e40f7b95cacbaab2caf20",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-24T00:55:41.763Z",
+        "mainGameItem": {
+          "id": "b6494173e7534ad197dafd4d93149718",
+          "namespace": "52b90f9a982a404781b189f6a7903226",
+          "unsearchable": false
+        },
+        "namespace": "52b90f9a982a404781b189f6a7903226",
+        "status": "ACTIVE",
+        "title": "Dress Code Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-27T21:02:01.698Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Stunt Sets Audience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "1816f44d5c2a49fb809ac7af2a88ac1e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1816f44d5c2a49fb809ac7af2a88ac1e",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-24T00:56:27.586Z",
+        "mainGameItem": {
+          "id": "b6494173e7534ad197dafd4d93149718",
+          "namespace": "52b90f9a982a404781b189f6a7903226",
+          "unsearchable": false
+        },
+        "namespace": "52b90f9a982a404781b189f6a7903226",
+        "status": "ACTIVE",
+        "title": "Stunt Sets Audience",
+        "unsearchable": false
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-02-27T21:02:32.530Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows,Mac"
+          }
+        },
+        "description": "Cyberfunk Audience",
+        "developer": "tinyBuild Games",
+        "developerId": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+        "endOfSupport": false,
+        "entitlementName": "0d7141e034004ecaad2d04185b76955c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d7141e034004ecaad2d04185b76955c",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-24T00:56:40.931Z",
+        "mainGameItem": {
+          "id": "b6494173e7534ad197dafd4d93149718",
+          "namespace": "52b90f9a982a404781b189f6a7903226",
+          "unsearchable": false
+        },
+        "namespace": "52b90f9a982a404781b189f6a7903226",
+        "status": "ACTIVE",
+        "title": "Cyberfunk Audience",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b6494173e7534ad197dafd4d93149718",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b6494173e7534ad197dafd4d93149718",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "47e6e9562d62705a75ea7b7096d0b8dc",
+        "size": 635820,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-04T00:39:41.061Z",
+        "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "9c6ee20f94a76179a1036753ea081dbb",
+        "size": 376015,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-04T00:39:49.431Z",
+        "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/item/EGS_TotallyReliableDeliveryService_WereFiveGames_S2-1200x1600-9c6ee20f94a76179a1036753ea081dbb.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-05-04T00:45:31.414Z",
+    "longDescription": "Totally Reliable Delivery Service",
+    "namespace": "52b90f9a982a404781b189f6a7903226",
+    "releaseInfo": [
+      {
+        "appId": "Hoatzin",
+        "dateAdded": "2019-10-24T00:00:00.000Z",
+        "id": "65e2839a8e08448c8b619deca43433f7",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "Totally Reliable Delivery Service",
+    "unsearchable": false
+  }
+}

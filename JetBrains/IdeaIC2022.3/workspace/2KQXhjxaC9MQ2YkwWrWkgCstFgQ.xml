@@ -1,0 +1,196 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="combat-activity" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Rust">
+      <summary usageCount="10" lastUsed="1673921361750" />
+    </fileType>
+    <fileType name="TOML">
+      <summary usageCount="3" lastUsed="1673911491897" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Cargo.toml" />
+      <option value="$PROJECT_DIR$/src/character/character-base.rs" />
+      <option value="$PROJECT_DIR$/src/character/Move_Base.rs" />
+      <option value="$PROJECT_DIR$/src/character/move_base.rs" />
+      <option value="$PROJECT_DIR$/src/character/character_base.rs" />
+      <option value="$PROJECT_DIR$/src/character/mod.rs" />
+      <option value="$PROJECT_DIR$/src/main.rs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="10" lastUsage="1673921361750" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="3" lastUsage="1673911491897" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run" executorId="Run" />
+    </history>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" weight="0.22938412" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25026095" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.09404537" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.12523629" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Build" order="9" visible="true" weight="0.28780717" />
+      <window_info anchor="right" id="Cargo" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Build</value>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Commit</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3640" y="310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1673920944332">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3640" y="310" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673920944332" />
+    <state x="3690" y="320" key="FileChooserDialogImpl" timestamp="1673911006636">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3690" y="320" key="FileChooserDialogImpl/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911006636" />
+    <state width="286" height="156" key="Git.Branch.Popup" timestamp="1673911207449">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state width="286" height="156" key="Git.Branch.Popup/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911207449" />
+    <state x="3640" y="395" key="Github.ShareDialog" timestamp="1673911380983">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3640" y="395" key="Github.ShareDialog/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911380983" />
+    <state width="1870" height="104" key="GridCell.Tab.0.bottom" timestamp="1673911008423">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="104" key="GridCell.Tab.0.bottom/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911008423" />
+    <state width="1870" height="104" key="GridCell.Tab.0.center" timestamp="1673911008423">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="104" key="GridCell.Tab.0.center/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911008423" />
+    <state width="1870" height="104" key="GridCell.Tab.0.left" timestamp="1673911008423">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="104" key="GridCell.Tab.0.left/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911008423" />
+    <state width="1870" height="104" key="GridCell.Tab.0.right" timestamp="1673911008423">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1870" height="104" key="GridCell.Tab.0.right/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911008423" />
+    <state x="3502" y="298" key="Vcs.Push.Dialog.v2" timestamp="1673911474217">
+      <screen x="2944" y="0" width="1920" height="1080" />
+    </state>
+    <state x="3502" y="298" key="Vcs.Push.Dialog.v2/2944.0.1920.1080/0.312.1024.768/1024.0.1920.1080@2944.0.1920.1080" timestamp="1673911474217" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/mod.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/character_base.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/character_base/mod.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/character_base/move_base.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/character/move_base.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#26#27#0" expanded="true" />
+            <element signature="e#59#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

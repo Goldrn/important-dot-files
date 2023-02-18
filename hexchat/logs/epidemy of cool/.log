@@ -1,0 +1,40 @@
+**** BEGIN LOGGING AT Mon Jan 16 15:27:06 2023
+
+Jan 16 15:27:06 Failed loading notification plugin: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.Notifications was not provided by any .service files
+Jan 16 15:27:06 *	Unknown host. Maybe you misspelled it?
+Jan 16 15:27:16 Cycling to next server in Epidemy of cool...
+Jan 16 15:27:16 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jan 16 15:27:16 2023
+
+**** BEGIN LOGGING AT Mon Jan 16 15:30:43 2023
+
+Jan 16 15:30:47 Cycling to next server in Epidemy of cool...
+Jan 16 15:30:47 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jan 16 15:30:47 2023
+
+**** BEGIN LOGGING AT Mon Jan 16 15:35:35 2023
+
+Jan 16 15:35:42 Cycling to next server in Epidemy of cool...
+Jan 16 15:35:42 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jan 16 15:35:42 2023
+
+**** BEGIN LOGGING AT Mon Jan 16 15:36:40 2023
+
+Jan 16 15:36:42 Cycling to next server in Epidemy of cool...
+Jan 16 15:36:42 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jan 16 15:36:42 2023
+
+**** BEGIN LOGGING AT Mon Jan 16 15:36:59 2023
+
+Jan 16 15:37:02 Cycling to next server in Epidemy of cool...
+Jan 16 15:37:02 *	Disconnected ()
+**** ENDING LOGGING AT Mon Jan 16 15:37:02 2023
+
+**** BEGIN LOGGING AT Mon Jan 16 15:37:23 2023
+
+Jan 16 15:37:31 Sysinfo plugin unloaded
+Jan 16 15:37:31 FiSHLiM plugin unloaded
+Jan 16 15:37:31 Perl interface unloaded
+Jan 16 15:37:31 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Jan 16 15:37:31 2023
+

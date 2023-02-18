@@ -1,0 +1,27 @@
+{
+  "Jackal": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine",
+      "name": "Wine - lutris-GE-Proton7-27-x86_64",
+      "type": "wine",
+      "lib": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64",
+      "lib32": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib",
+      "wineserver": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineserver",
+      "wineboot": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineboot"
+    },
+    "winePrefix": "/home/goldrn/Games/Heroic/Prefixes/Dauntless",
+    "eacRuntime": true,
+    "battlEyeRuntime": true
+  },
+  "version": "v0",
+  "explicit": true
+}

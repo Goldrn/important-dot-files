@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Adafruit-Feather-RP2040")(type "KiCad")(uri "/home/goldrn/hatbag/Adafruit-Feather-RP2040.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,2171 @@
+{
+  "app_name": "Brill",
+  "app_title": "Dead by Daylight",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Brill",
+      "asset_id": "Brill",
+      "build_version": "DBD_Live_EGS_Shipping_136_679617_6.5.1.4",
+      "catalog_item_id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "611482b8586142cda48a0786eb8a127c"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567XIS1tXsA8C4YeazL50Ab3ESX",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-01-17T15:26:46.714Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DeadByDaylight"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "611482b8586142cda48a0786eb8a127c"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Dead by Daylight",
+    "developer": "Behaviour Interactive Inc.",
+    "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-28T23:58:08.794Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill CursedLegacyChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "01bbc39db2f446daab0b283343fc99c8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "01bbc39db2f446daab0b283343fc99c8",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-16T15:45:08.640Z",
+        "longDescription": "DLC 02",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Brill CursedLegacyChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:10:08.087Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (500)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "168d750b4a6f451ca6eb68618a741f2c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "168d750b4a6f451ca6eb68618a741f2c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "56877f6d4ce1b71a7e7396cd5ae2cb21",
+            "size": 618668,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:52:12.978Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack500_BehaviourInteractive_Packs_S2_1200x1600-56877f6d4ce1b71a7e7396cd5ae2cb21",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "9361bc6f44c947b386cf04f168533550",
+            "size": 766120,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:52:18.227Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack500_BehaviourInteractive_Packs_S1_2560x1440-9361bc6f44c947b386cf04f168533550",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:57:02.725Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (500)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:01:25.997Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Darkness Among Us Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "268cae6e74134dee92198670d7b30bcc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "268cae6e74134dee92198670d7b30bcc",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "83a935dfc025f6bdcee94b8514f9fe2d",
+            "size": 936494,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:01:14.635Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightDarknessAmongUsChapter_BehaviourInteractive_DLC_S2_1200x1600-83a935dfc025f6bdcee94b8514f9fe2d",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "ac5f26a229cb01b6af5b3c77affb160c",
+            "size": 983120,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:01:18.307Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightDarknessAmongUsChapter_BehaviourInteractive_DLC_S1_2560x1440-ac5f26a229cb01b6af5b3c77affb160c",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-15T20:37:25.414Z",
+        "longDescription": "DLC 05",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Darkness Among Us Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:03:13.804Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Curtain Call Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "2e8b8ed7a3cd481abcae1f7986153e50",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2e8b8ed7a3cd481abcae1f7986153e50",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "dc4b2f5d43b7943873de658016a0f1f7",
+            "size": 822249,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:15:26.311Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightCurtainCallChapter_BehaviourInteractive_DLC_S2_1200x1600-dc4b2f5d43b7943873de658016a0f1f7",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "65c1d6333a48d3d73e110d3bc4909bba",
+            "size": 852966,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:15:29.223Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightCurtainCallChapter_BehaviourInteractive_DLC_S1_2560x1440-65c1d6333a48d3d73e110d3bc4909bba",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:59:57.868Z",
+        "longDescription": "DLC 06",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Curtain Call Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-28T23:59:35.438Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill DemiseFaithfulChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "4f8625dec370441da5fd0a11ff0732d8",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4f8625dec370441da5fd0a11ff0732d8",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:36:37.928Z",
+        "longDescription": "DLC 03",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Brill DemiseFaithfulChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:12:39.691Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (2250)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "81c99b3171f941ff9f7915b51e371f05",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "81c99b3171f941ff9f7915b51e371f05",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "415a925b371be85e6b2dd8b1cde9d4dd",
+            "size": 788768,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:06:07.932Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack2250_BehaviourInteractive_Packs_S2_1200x1600-415a925b371be85e6b2dd8b1cde9d4dd",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "aa46e7451f947a7ed9eae3585f904667",
+            "size": 924366,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:06:11.570Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack2250_BehaviourInteractive_Packs_S1_2560x1440-aa46e7451f947a7ed9eae3585f904667",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:55:43.831Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (2250)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-28T23:55:35.048Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Chains of Hate Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "9a109c018e17400eae350a423e595107",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9a109c018e17400eae350a423e595107",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b8dd593a3fe298cae3ef0730011a29b3",
+            "size": 934573,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T11:02:53.214Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChainsofHateChapter_BehaviourInteractive_DLC_S2_1200x1600-b8dd593a3fe298cae3ef0730011a29b3",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "71d819b71d12fe56be5f5e0b10821db4",
+            "size": 580296,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T11:02:55.948Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightChainsofHateChapter_BehaviourInteractive_DLC_S1_2560x1440-71d819b71d12fe56be5f5e0b10821db4",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:44:35.032Z",
+        "longDescription": "DLC 01",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Chains of Hate Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:00:33.797Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Shattered Bloodline Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "ca6f548dabef4026b804aaa0a606a8fa",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ca6f548dabef4026b804aaa0a606a8fa",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "e157eae34baec0be7851baf554dc044c",
+            "size": 674523,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:06:27.109Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightShatteredBloodlineChapter_BehaviourInteractive_DLC_S2_1200x1600-e157eae34baec0be7851baf554dc044c",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "277136836282a89c538a9fd9bcd6896a",
+            "size": 720095,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:06:30.148Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightShatteredBloodlineChapter_BehaviourInteractive_DLC_S1_2560x1440-277136836282a89c538a9fd9bcd6896a",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:37:17.756Z",
+        "longDescription": "DLC 04",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Shattered Bloodline Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-07-29T00:11:49.284Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (1100)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "d9ba2a71c7664785a1cfff524edb768c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d9ba2a71c7664785a1cfff524edb768c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "8dee75ea4dccbd5a492d4a8138a42f3e",
+            "size": 763677,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:56:19.664Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack1100_BehaviourInteractive_Packs_S2_1200x1600-8dee75ea4dccbd5a492d4a8138a42f3e",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "fcf4ef5368b8994d72545bf632fd0c80",
+            "size": 903161,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:56:22.847Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack1100_BehaviourInteractive_Packs_S1_2560x1440-fcf4ef5368b8994d72545bf632fd0c80",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:53:10.776Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (1100)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:07:40.887Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (4025)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "916bfd0101c24561b75e984751e46e95",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "916bfd0101c24561b75e984751e46e95",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "98a60732158b8b7143cd0f8c7b708236",
+            "size": 842007,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T15:15:57.257Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack4025_BehaviourInteractive_Packs_S2_1200x1600-98a60732158b8b7143cd0f8c7b708236",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "76bcc3aa681ed61629614bac26bc103a",
+            "size": 996992,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T15:16:04.047Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack4025_BehaviourInteractive_Packs_S1_2560x1440-76bcc3aa681ed61629614bac26bc103a",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:48:16.317Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (4025)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:08:32.986Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (6000)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "920f365a9b454af3a9bc675f839bed64",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "920f365a9b454af3a9bc675f839bed64",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "faaf366359a3cd9580243e2c8b943dbf",
+            "size": 999656,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T15:20:56.786Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack6000_BehaviourInteractive_Packs_S2_1200x1600-faaf366359a3cd9580243e2c8b943dbf",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "6e0c0882035227d64e2eea27765fd9c5",
+            "size": 520749,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T15:21:00.063Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack6000_BehaviourInteractive_Packs_S1_2560x1440-6e0c0882035227d64e2eea27765fd9c5",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:40:20.161Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (6000)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:09:37.098Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Auric Cells Pack (12500)",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "87bb22af1b6c4ee19404b34b7321fb4c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "87bb22af1b6c4ee19404b34b7321fb4c",
+        "installModes": [],
+        "itemType": "CONSUMABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "cd156b3094464d00067b1a3ef71700db",
+            "size": 463711,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T15:24:46.603Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack12500_BehaviourInteractive_Packs_S2_1200x1600-cd156b3094464d00067b1a3ef71700db",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "0ee3241712355f28a3639092938f5e1f",
+            "size": 534155,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T15:24:51.347Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightAuricCellsPack12500_BehaviourInteractive_Packs_S1_2560x1440-0ee3241712355f28a3639092938f5e1f",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:37:49.095Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Auric Cells Pack (12500)",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:21:01.191Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - The Bloodstained Sack",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "abc74084457d46f5a51f062f540bdeee",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "abc74084457d46f5a51f062f540bdeee",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "af0b556a7bbb9cd8c63a94f56fc84130",
+            "size": 757605,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T12:14:10.832Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightTheBloodstainedSack_BehaviourInteractive_DLC_S2_1200x1600-af0b556a7bbb9cd8c63a94f56fc84130",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "a830450cd73c646b7a1cf9f5d76f2615",
+            "size": 620504,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T12:14:14.231Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightTheBloodstainedSack_BehaviourInteractive_DLC_S1_2560x1440-a830450cd73c646b7a1cf9f5d76f2615",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T16:00:44.343Z",
+        "longDescription": "DLC 07",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - The Bloodstained Sack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:21:56.740Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill 80sSuitcaseAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "a1f208be98e64c5ea5e946b86f7d19c3",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a1f208be98e64c5ea5e946b86f7d19c3",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-16T15:52:41.737Z",
+        "longDescription": "DLC 08",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill 80sSuitcaseAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:23:08.684Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Of Flesh and Mud Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "b18a490a58d548588eb60c2fd6b4c3cc",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b18a490a58d548588eb60c2fd6b4c3cc",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "293a6f759dcbfaa0b88c957f448dd22f",
+            "size": 690703,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T12:08:29.675Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightOfFleshandMudChapter_BehaviourInteractive_DLC_S2_1200x1600-293a6f759dcbfaa0b88c957f448dd22f",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "e7dc0d7c3181b6811ff3150ed79ed0aa",
+            "size": 701174,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T12:08:32.228Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightOfFleshandMudChapter_BehaviourInteractive_DLC_S1_2560x1440-e7dc0d7c3181b6811ff3150ed79ed0aa",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:56:38.577Z",
+        "longDescription": "DLC 09",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Of Flesh and Mud Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:26:37.131Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Spark of Madness Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "4b9c8d9424ca4a2899505254ba46b109",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b9c8d9424ca4a2899505254ba46b109",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "ba19d53ee3a4591db99bd6952487afa8",
+            "size": 565245,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T12:01:17.990Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSparkofMadnessChapter_BehaviourInteractive_DLC_S2_1200x1600-ba19d53ee3a4591db99bd6952487afa8",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "42102ae2ba8f1989ed7b4fe20e8a74f3",
+            "size": 943860,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T12:01:20.944Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSparkofMadnessChapter_BehaviourInteractive_DLC_S1_2560x1440-42102ae2ba8f1989ed7b4fe20e8a74f3",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T16:00:24.303Z",
+        "longDescription": "DLC 10",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Spark of Madness Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:28:19.950Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead By Daylight - Silent Hill Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "e7d0828eb497411c813951058d8fd931",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7d0828eb497411c813951058d8fd931",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b57b8dd1f1b8d40ce9fd05b1c416e070",
+            "size": 987975,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T11:12:26.255Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadByDaylightSilentHillChapter_BehaviourInteractive_DLC_S2_1200x1600-b57b8dd1f1b8d40ce9fd05b1c416e070",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "c4ced6cef071b340358b8c2284f3fd29",
+            "size": 550093,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T11:12:28.972Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadByDaylightSilentHillChapter_BehaviourInteractive_DLC_S1_2560x1440-c4ced6cef071b340358b8c2284f3fd29",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:47:46.236Z",
+        "longDescription": "DLC 11",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead By Daylight - Silent Hill Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:32:00.275Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Killer Expansion Pack",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "489ff36aa1ba47089591bf623f0af9df",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "489ff36aa1ba47089591bf623f0af9df",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "cdbbe18934f71091ca22e68896f837c9",
+            "size": 651151,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T15:30:10.117Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightKillerExpansionPack_BehaviourInteractive_Packs_S2_1200x1600-cdbbe18934f71091ca22e68896f837c9",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "33a54bc1d60432a5114db25679dca3e0",
+            "size": 639584,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T15:30:19.014Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightKillerExpansionPack_BehaviourInteractive_Packs_S1_2560x1440-33a54bc1d60432a5114db25679dca3e0",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:49:32.395Z",
+        "longDescription": "DLC 12",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Killer Expansion Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:32:54.307Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Survivor Expansion Pack",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "f8c85b036b0c418097f7abf10384c821",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8c85b036b0c418097f7abf10384c821",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "f903a7d90d21ac9ae7d4baf7895416ed",
+            "size": 480941,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T15:37:06.595Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSurvivorExpansionPack_BehaviourInteractive_Packs_S2_1200x1600-f903a7d90d21ac9ae7d4baf7895416ed",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "ef3f9f30c24433363fcc8aceb0530403",
+            "size": 922726,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T15:37:12.161Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightSurvivorExpansionPack_BehaviourInteractive_Packs_S1_2560x1440-ef3f9f30c24433363fcc8aceb0530403",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:52:11.692Z",
+        "longDescription": "DLC 13",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Survivor Expansion Pack",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:49:52.611Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill HeadcaseAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "93f4e154df3a4254a0ece7241659d84e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "93f4e154df3a4254a0ece7241659d84e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:31:13.801Z",
+        "longDescription": "DLC 14",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill HeadcaseAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:52:11.096Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Charity Case",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "0885718299d640708080b66ddb9dceb1",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0885718299d640708080b66ddb9dceb1",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "237b617c9f4caaa440863a1d9d03caf3",
+            "size": 463253,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:22:07.357Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightCharityCase_BehaviourInteractive_DLC_S2_1200x1600-237b617c9f4caaa440863a1d9d03caf3",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "dd5d3f5bc48da9a0b9cf537e02319edb",
+            "size": 879819,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:23:29.667Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightCharityCase_BehaviourInteractive_DLC_S1_2560x1440-dd5d3f5bc48da9a0b9cf537e02319edb",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:31:20.983Z",
+        "longDescription": "DLC 15",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Charity Case",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:54:57.945Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill LeatherfaceAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "06f5b0d8cf56445390f14516b28ea5c2",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "06f5b0d8cf56445390f14516b28ea5c2",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:30:51.807Z",
+        "longDescription": "DLC 16",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill LeatherfaceAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:56:35.329Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill AshVsEvilDeadAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "f8ead4a3752f41e69632bfce9838ca9b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f8ead4a3752f41e69632bfce9838ca9b",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:32:49.055Z",
+        "longDescription": "DLC 17",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill AshVsEvilDeadAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T22:58:37.751Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill GhostFaceAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "cd2c0734ab444693884d200be769be0c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "cd2c0734ab444693884d200be769be0c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:35:14.150Z",
+        "longDescription": "DLC 18",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill GhostFaceAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:00:26.075Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - The Halloween\u00ae Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "c9d4a48a9576483fb6ba27a99bcb3780",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c9d4a48a9576483fb6ba27a99bcb3780",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "519d440d24d48d97406c463b294a0d45",
+            "size": 411078,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T11:55:05.929Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightTheHalloweenChapter_BehaviourInteractive_DLC_S2_1200x1600-519d440d24d48d97406c463b294a0d45",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "d9a31aac5a6a7471dbfb93b057bdedd3",
+            "size": 683243,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T11:55:09.481Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightTheHalloweenChapter_BehaviourInteractive_DLC_S1_2560x1440-d9a31aac5a6a7471dbfb93b057bdedd3",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:43:32.058Z",
+        "longDescription": "DLC 19",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - The Halloween\u00ae Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:02:38.498Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - A Nightmare on Elm Street\u2122",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "439c3c5df54b468696f880401660d7ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "439c3c5df54b468696f880401660d7ad",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "7b774eb61728934ec4144ace12038281",
+            "size": 956401,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T13:55:57.903Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S2_1200x1600-7b774eb61728934ec4144ace12038281",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "5f1b358d9e1ebcf3e62533974bb103cd",
+            "size": 996447,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T13:56:00.927Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightANightmareonElmStreet_BehaviourInteractive_DLC_S1_2560x1440-5f1b358d9e1ebcf3e62533974bb103cd",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-15T20:35:41.485Z",
+        "longDescription": "DLC 20",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - A Nightmare on Elm Street\u2122",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:04:10.034Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill SawChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "18b030008f8847af868aff2f0eaab510",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "18b030008f8847af868aff2f0eaab510",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:36:57.105Z",
+        "longDescription": "DLC 21",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill SawChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:05:58.779Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Descend Beyond Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "89120707a96a4210a9e23dced174632e",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "89120707a96a4210a9e23dced174632e",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "3e1366a2d5ce3be5ed52b6840d354b15",
+            "size": 935602,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T10:58:50.123Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightDescendBeyondChapter_BehaviourInteractive_DLC_S2_1200x1600-3e1366a2d5ce3be5ed52b6840d354b15",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "683d1a5ec171ef954cbeaf89acd92312",
+            "size": 443908,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T10:58:57.054Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightDescendBeyondChapter_BehaviourInteractive_DLC_S1_2560x1440-683d1a5ec171ef954cbeaf89acd92312",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-11-15T20:36:08.605Z",
+        "longDescription": "DLC 22",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Descend Beyond Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:07:16.339Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - A Binding of Kin Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "ffda316a960d4f41930027dbe0772e0f",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ffda316a960d4f41930027dbe0772e0f",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:37:14.885Z",
+        "longDescription": "DLC 23",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - A Binding of Kin Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:09:33.930Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill AllKillChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "87fafa3c2a724dddb87fb2a5cd350dae",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "87fafa3c2a724dddb87fb2a5cd350dae",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-11-15T20:36:47.994Z",
+        "longDescription": "DLC 24",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill AllKillChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-08-11T23:13:02.801Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Resident Evil Chapter",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "dbf62759c9cc439699256801ee09095c",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dbf62759c9cc439699256801ee09095c",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "a55ef30dee6864a545ff0f7a2140b43a",
+            "size": 1011147,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T10:51:57.469Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightResidentEvilChapter_BehaviourInteractive_DLC_S2_1200x1600-a55ef30dee6864a545ff0f7a2140b43a",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "bef9bbba8f08ae42bf34931ec18e3b59",
+            "size": 1010519,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T10:52:06.813Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightResidentEvilChapter_BehaviourInteractive_DLC_S1_2560x1440-bef9bbba8f08ae42bf34931ec18e3b59",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:45:43.238Z",
+        "longDescription": "DLC 26",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Resident Evil Chapter",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-01T17:55:54.965Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill HellraiserChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "bc146268c50b4716a65a132a70d12c0a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bc146268c50b4716a65a132a70d12c0a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-16T15:30:20.981Z",
+        "longDescription": "DLC 27",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill HellraiserChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-30T19:54:24.709Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Brill HourOfTheWitchChapterAudience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "4eb6bf2cdef2438b924c5d8cd2137cc5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4eb6bf2cdef2438b924c5d8cd2137cc5",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-03-16T15:55:02.261Z",
+        "longDescription": "DLC 28",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Brill HourOfTheWitchChapterAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-09-30T19:56:03.651Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Portrait of a Murder",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "9e8f8dace7a243c480c6d6d06ab429c9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9e8f8dace7a243c480c6d6d06ab429c9",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1600,
+            "md5": "b611428037b07218026c725e633a8715",
+            "size": 565334,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2021-11-19T14:27:50.728Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightPortraitofaMurder_BehaviourInteractive_DLC_S2_1200x1600-b611428037b07218026c725e633a8715",
+            "width": 1200
+          },
+          {
+            "height": 1440,
+            "md5": "f14ff0811f5208851b5986392a551f4c",
+            "size": 589926,
+            "type": "DieselGameBoxWide",
+            "uploadedDate": "2021-11-19T14:27:53.846Z",
+            "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightPortraitofaMurder_BehaviourInteractive_DLC_S1_2560x1440-f14ff0811f5208851b5986392a551f4c",
+            "width": 2560
+          }
+        ],
+        "lastModifiedDate": "2022-03-16T15:41:25.291Z",
+        "longDescription": "DLC 29",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Portrait of a Murder",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-02-09T23:24:02.465Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Sadako Rising audience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "1f3b9ad501c24864b20a9e6faef38310",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1f3b9ad501c24864b20a9e6faef38310",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-15T20:27:17.227Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Sadako Rising audience",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-05-25T21:21:46.377Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Dead by Daylight - Roots of Dread",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "38fd1bb1d7aa4958b8fc1dbc705062ed",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "38fd1bb1d7aa4958b8fc1dbc705062ed",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-06-06T23:13:30.557Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Roots of Dread",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-11-02T16:31:15.255Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Dead by Daylight - Forged in Fog Chapter audience",
+        "developer": "Behaviour Interactive Inc.",
+        "developerId": "o-2ctdycbd3jxm6a26vpz5d4xv872smu",
+        "endOfSupport": false,
+        "entitlementName": "f6ac362ab0aa462e894e698682a92801",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f6ac362ab0aa462e894e698682a92801",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-21T22:57:49.841Z",
+        "mainGameItem": {
+          "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+          "namespace": "611482b8586142cda48a0786eb8a127c",
+          "unsearchable": false
+        },
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Dead by Daylight - Forged in Fog Chapter audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "467a7bed47ec44d9b1c9da0c2dae58f7",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "467a7bed47ec44d9b1c9da0c2dae58f7",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "a32581cf9948a9a2e24b2ff15c1577c7",
+        "size": 912716,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-03-16T20:11:07.487Z",
+        "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S1_2560x1440-a32581cf9948a9a2e24b2ff15c1577c7",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "a1c30209e3b9fb63144daa9b5670f503",
+        "size": 498471,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-03-16T20:11:13.556Z",
+        "url": "https://cdn1.epicgames.com/item/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylight_BehaviourInteractive_S2_1200x1600-a1c30209e3b9fb63144daa9b5670f503",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-02-06T17:16:51.022Z",
+    "namespace": "611482b8586142cda48a0786eb8a127c",
+    "releaseInfo": [
+      {
+        "appId": "Brill",
+        "id": "89c52b85d2b340a4a3a7f745087402c6",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Dead by Daylight",
+    "unsearchable": true
+  }
+}

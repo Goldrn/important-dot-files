@@ -1,0 +1,32 @@
+[1/29/2023, 9:55:44 PM] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.31", codename "Dark Energy (hotfix #5)"
+[1/29/2023, 9:55:45 PM] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Logging in...
+[EPCAPI] WARNING: Login to EGS API failed with errorCode: errors.com.epicgames.account.auth_token.invalid_refresh_token
+[Core] ERROR: Stored credentials are no longer valid! Please login again.
+[cli] ERROR: Login failed, cannot continue!
+[1/29/2023, 9:56:01 PM] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 183, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[103082] Failed to execute script 'cli' due to unhandled exception!
+[1/29/2023, 9:57:14 PM] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 183, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[103155] Failed to execute script 'cli' due to unhandled exception!
+[1/29/2023, 9:57:24 PM] /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+Traceback (most recent call last):
+  File "legendary/cli.py", line 3061, in <module>
+  File "legendary/cli.py", line 3000, in main
+  File "legendary/cli.py", line 1587, in info
+  File "legendary/api/egs.py", line 183, in get_user_entitlements
+AttributeError: 'NoneType' object has no attribute 'get'
+[103195] Failed to execute script 'cli' due to unhandled exception!

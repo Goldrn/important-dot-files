@@ -1,0 +1,95 @@
+{
+	"finished": [
+		{
+			"params": {
+				"appName": "Jackal",
+				"path": "/home/goldrn/Games/Heroic",
+				"installDlcs": false,
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "Jackal",
+					"art_cover": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1_2560x1440-160c0e7e1d166bfa1b83f21facdec8fb",
+					"art_square": "https://cdn1.epicgames.com/item/jackal/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2_1200x1600-04375b45d081769fa3ee6c89417120b7",
+					"cloud_save_enabled": false,
+					"developer": "Phoenix Labs",
+					"extra": {
+						"about": {
+							"description": "Dauntless",
+							"longDescription": ""
+						},
+						"reqs": []
+					},
+					"folder_name": "Dauntless",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "jackal",
+					"is_mac_native": false,
+					"save_folder": "",
+					"title": "Dauntless",
+					"canRunOffline": true,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/dauntless"
+				},
+				"size": "14.78 GiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1672541468119,
+			"endTime": 1672543478344,
+			"startTime": 1672541468122,
+			"status": "done"
+		},
+		{
+			"params": {
+				"appName": "Salt",
+				"path": "/home/goldrn/Games/Heroic",
+				"installDlcs": false,
+				"sdlList": [],
+				"installLanguage": "",
+				"runner": "legendary",
+				"platformToInstall": "Windows",
+				"gameInfo": {
+					"app_name": "Salt",
+					"art_cover": "https://cdn1.epicgames.com/item/b671fbc7be424e888c9346a9a6d3d9db/Celeste-landscapeofferimage-2560x1440-0b9b94fd493d817704ecfdf4c704989a_2560x1440-0b9b94fd493d817704ecfdf4c704989a",
+					"art_square": "https://cdn1.epicgames.com/item/b671fbc7be424e888c9346a9a6d3d9db/CodeRedemption_Celeste-340x440-873dacb76be8c59d659757b4b5284a611_1200x1600-9e39079f1ce19738e65d349a8bc98650",
+					"cloud_save_enabled": true,
+					"developer": "Matt Makes Games",
+					"extra": {
+						"about": {
+							"description": "Celeste",
+							"longDescription": ""
+						},
+						"reqs": []
+					},
+					"folder_name": "Celeste",
+					"install": {
+						"install_size": "0",
+						"is_dlc": false
+					},
+					"is_installed": false,
+					"namespace": "b671fbc7be424e888c9346a9a6d3d9db",
+					"is_mac_native": true,
+					"save_folder": "{InstallDir}/Saves/",
+					"title": "Celeste",
+					"canRunOffline": true,
+					"is_linux_native": false,
+					"runner": "legendary",
+					"store_url": "https://www.epicgames.com/store/product/celeste"
+				},
+				"size": "817.36 MiB"
+			},
+			"type": "install",
+			"addToQueueTime": 1675047578386,
+			"endTime": 1675047641068,
+			"startTime": 1675047578390,
+			"status": "done"
+		}
+	],
+	"queue": []
+}

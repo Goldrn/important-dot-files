@@ -1,0 +1,1778 @@
+{
+  "app_name": "4f0c34d469bb47b2bcf5b377f47ccfe3",
+  "app_title": "theHunter: Call of the Wild\u2122",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "4f0c34d469bb47b2bcf5b377f47ccfe3",
+      "asset_id": "4f0c34d469bb47b2bcf5b377f47ccfe3",
+      "build_version": "0.0.1073",
+      "catalog_item_id": "7333ebed726f408e8f3bfa650488d32e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "c7f9346e3db148fca6dd63e9dd8451bd"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567ViXXa2ZNYtHlbch78Tr8MxL1",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-06-12T16:57:54.341Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "theHunterCallOfTheWild"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "c7f9346e3db148fca6dd63e9dd8451bd"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "theHunter: Call of the Wild\u2122",
+    "developer": "Expansive Worlds AB",
+    "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-03-17T18:09:58.983Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - RDLC",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "ddc7477e5e4043fb9745327573ca7325",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ddc7477e5e4043fb9745327573ca7325",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-03-17T18:09:58.983Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - RDLC",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-06-22T19:04:31.701Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "ASP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "5e089a943f39459e9669d38df62fe364",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e089a943f39459e9669d38df62fe364",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-09-27T08:52:31.264Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ASP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-07-07T20:07:15.249Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild - HSCP DLC",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "f965a7f6831148f3b46233f32ded6551",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f965a7f6831148f3b46233f32ded6551",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-07-07T20:07:15.249Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild - HSCP DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-09-27T15:51:27.858Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Call of the Wild - NEM DLC",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "e230e444511b4683948426144345c157",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e230e444511b4683948426144345c157",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-05T19:02:01.076Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Call of the Wild - NEM DLC",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T14:34:44.742Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter Call of the Wild\u2122 - HECP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "a31568546c39436e98fc7244f989d9a6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a31568546c39436e98fc7244f989d9a6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-25T14:34:44.742Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter Call of the Wild\u2122 - HECP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T14:35:28.960Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter Call of the Wild\u2122 - HVCP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "9cc40f3d06dc4bcf8d69bd7049e32ffc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9cc40f3d06dc4bcf8d69bd7049e32ffc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-25T14:35:28.960Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter Call of the Wild\u2122 - HVCP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T14:36:11.126Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter Call of the Wild\u2122 - NESCP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "0d74dfaf4180431abb524cce8a5b3b13",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0d74dfaf4180431abb524cce8a5b3b13",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-05T19:02:01.050Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter Call of the Wild\u2122 - NESCP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T14:36:49.557Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter Call of the Wild\u2122 - NEECP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "f1c65932b13c4168876fc28d1fef96b8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f1c65932b13c4168876fc28d1fef96b8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-10-25T14:36:49.557Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter Call of the Wild\u2122 - NEECP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-10-25T14:37:50.339Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter Call of the Wild\u2122 - NEVCP",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "69cfd38bde924140ba76e17c11c2bcaf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "69cfd38bde924140ba76e17c11c2bcaf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-12-05T19:02:01.067Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter Call of the Wild\u2122 - NEVCP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:30:11.052Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Revontuli Coast Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "09ead1b2895d466ab74ddd3cfe4e9d53",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "09ead1b2895d466ab74ddd3cfe4e9d53",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.845Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Revontuli Coast Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:22:40.968Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "0cbca7033edc434fa320eea8f6032fbc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0cbca7033edc434fa320eea8f6032fbc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.856Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:25:16.455Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Te Awaroa Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "155806ad22c34f6f9a5dbe8c973f4e4c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "155806ad22c34f6f9a5dbe8c973f4e4c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.859Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Te Awaroa Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:58:28.114Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Yukon Valley Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "2145108f30b94c9db20f635d31bee83f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2145108f30b94c9db20f635d31bee83f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.864Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Yukon Valley Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:35:25.750Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Layton Lake Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "273b4edb1d96412d9fbf47a510f7bf1c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "273b4edb1d96412d9fbf47a510f7bf1c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.872Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Layton Lake Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:28:52.607Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "3ca9dba855ba4d519105b38bcee56c10",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3ca9dba855ba4d519105b38bcee56c10",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.878Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:29:28.248Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Mississippi Acres Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "3cd10d3710db4eee943f4ee1cfcb3bb2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3cd10d3710db4eee943f4ee1cfcb3bb2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.881Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Mississippi Acres Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:29:14.304Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Mississippi Acres Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "425271bb3d614b8ebff4b0c2edcf059f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "425271bb3d614b8ebff4b0c2edcf059f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.890Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Mississippi Acres Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:39:04.179Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122- Medved-Taiga Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "426c69a6c93a4de6abcd592a77f7fd87",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "426c69a6c93a4de6abcd592a77f7fd87",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.892Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122- Medved-Taiga Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:38:32.877Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Medved-Taiga Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "4a43bc15d6c04f388e4bf176faeb30c9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4a43bc15d6c04f388e4bf176faeb30c9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.897Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Medved-Taiga Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:29:45.378Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Mississippi Acres Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "4e35913126a842c9bdeded7640df6279",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4e35913126a842c9bdeded7640df6279",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.905Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Mississippi Acres Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:24:42.823Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Te Awaroa Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "56092ce434754ef4b21614c312e468e7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "56092ce434754ef4b21614c312e468e7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.910Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Te Awaroa Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:41:06.214Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Parque Fernando Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "5fca4610e7f54bd988191366db2931f8",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5fca4610e7f54bd988191366db2931f8",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.920Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Parque Fernando Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:23:04.021Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "63a3c911210642419dc9fa0d01e0d97d",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "63a3c911210642419dc9fa0d01e0d97d",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.925Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:58:02.836Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Yukon Valley Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "682392c797e0469697fce4a06b45a0c0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "682392c797e0469697fce4a06b45a0c0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.927Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Yukon Valley Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:30:29.988Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Revontuli Coast Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "6e5ad35142964d3aa4b33e8b041c21a2",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6e5ad35142964d3aa4b33e8b041c21a2",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.930Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Revontuli Coast Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:42:32.261Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Parque Fernando Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "760f9ad5b428443886cb86d94a7720a5",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "760f9ad5b428443886cb86d94a7720a5",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.934Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Parque Fernando Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T11:02:09.103Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "7d0ac068608842d3aff6c29562d2acd3",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7d0ac068608842d3aff6c29562d2acd3",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.939Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T11:00:51.952Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "7f28ed62961e43d488fcf8e21de11099",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7f28ed62961e43d488fcf8e21de11099",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.942Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:37:11.710Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Layton Lake Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "7f64dda9dd9b4bcab937691174e2ecbf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "7f64dda9dd9b4bcab937691174e2ecbf",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.944Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Layton Lake Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:27:02.738Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "81ba5673922f4f01ae5422b2d3046c14",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "81ba5673922f4f01ae5422b2d3046c14",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.947Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:56:14.180Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Reserves Explorer Cosmetics Bundle",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "93952e53c4b745e1b016916256fd47d7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "93952e53c4b745e1b016916256fd47d7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.951Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Reserves Explorer Cosmetics Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:41:03.913Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "93a99ebac66443faaddefa944d1c8612",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "93a99ebac66443faaddefa944d1c8612",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.953Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:25:00.427Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Te Awaroa Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "9404bbcd798043739fa4223f88db8198",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9404bbcd798043739fa4223f88db8198",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.957Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Te Awaroa Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:30:43.507Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Revontuli Coast Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "98d995087ead40fcbbeab3a5209a029a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "98d995087ead40fcbbeab3a5209a029a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.962Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Revontuli Coast Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:40:31.792Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Explorer Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "9cf5bf668c6044e6a14126863f20c339",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9cf5bf668c6044e6a14126863f20c339",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.964Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Explorer Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:57:29.887Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Reserves Veteran Cosmetics Bundle",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "9fe671f572b64f8f8baf62a2d00ffd96",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9fe671f572b64f8f8baf62a2d00ffd96",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.967Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Reserves Veteran Cosmetics Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T11:00:05.732Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "a7ea5e4fc5db4b38a3327e45431cbb1e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a7ea5e4fc5db4b38a3327e45431cbb1e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.969Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Cuatro Colinas Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:40:41.585Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Parque Fernando Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "a9874bd7e0bc4dd7b306398853f1e4e4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a9874bd7e0bc4dd7b306398853f1e4e4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.972Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Parque Fernando Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:58:57.363Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Yukon Valley Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "af038709c3d94edf8cba6cf5d48be89c",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "af038709c3d94edf8cba6cf5d48be89c",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.975Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Yukon Valley Veteran Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:26:48.050Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "d1261188930948cfb4a2c204c95041f0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d1261188930948cfb4a2c204c95041f0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:35.991Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Rancho del Arroyo Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T16:22:13.067Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "db8e33d733494a28a1f60f27bc422af0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "db8e33d733494a28a1f60f27bc422af0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:36.018Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Silver Ridge Peaks Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:38:10.917Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Medved-Taiga Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "e7f0cad73f3642ba8c7355e82eaa1ce6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e7f0cad73f3642ba8c7355e82eaa1ce6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:36.027Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Medved-Taiga Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-02T10:46:53.336Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Reserves Scout Cosmetics Bundle",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "e908018611c042d6892bf7fd7641fd94",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "e908018611c042d6892bf7fd7641fd94",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:36.039Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Reserves Scout Cosmetics Bundle",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:40:03.273Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Scout Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "f7529c7fb00a433d99ff3ad7e7139f13",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f7529c7fb00a433d99ff3ad7e7139f13",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:36.049Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Vurhonga Savanna Scout Cosmetic Pack",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-01T17:37:40.053Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "theHunter: Call of the Wild\u2122 - Layton Lake Veteran Cosmetic Pack",
+        "developer": "Expansive Worlds AB",
+        "developerId": "o-s22ys6lvw4qa9tvpqsnwkqmtug2ey7",
+        "endOfSupport": false,
+        "entitlementName": "fc7d8d0459744f37a4740a390216ee81",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fc7d8d0459744f37a4740a390216ee81",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-11-02T16:54:36.054Z",
+        "mainGameItem": {
+          "id": "7333ebed726f408e8f3bfa650488d32e",
+          "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+          "unsearchable": false
+        },
+        "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "theHunter: Call of the Wild\u2122 - Layton Lake Veteran Cosmetic Pack",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "7333ebed726f408e8f3bfa650488d32e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "7333ebed726f408e8f3bfa650488d32e",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "69120885e0b3acfb87f34ac0bad68ec6",
+        "size": 578266,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-11-25T16:06:42.854Z",
+        "url": "https://cdn1.epicgames.com/item/c7f9346e3db148fca6dd63e9dd8451bd/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440_2560x1440-69120885e0b3acfb87f34ac0bad68ec6",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "1e9b46aaabc33fe0a08cf5b418e76ba2",
+        "size": 321518,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-11-25T16:06:50.072Z",
+        "url": "https://cdn1.epicgames.com/item/c7f9346e3db148fca6dd63e9dd8451bd/EGS_theHunterCalloftheWild_ExpansiveWorlds_S2_1200x1600_1200x1600-1e9b46aaabc33fe0a08cf5b418e76ba2",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2022-11-21T09:55:25.295Z",
+    "namespace": "c7f9346e3db148fca6dd63e9dd8451bd",
+    "releaseInfo": [
+      {
+        "appId": "4f0c34d469bb47b2bcf5b377f47ccfe3",
+        "dateAdded": "2021-03-03T15:43:21.510Z",
+        "id": "546ead346b3a425bac3c7061c7174081",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "theHunter: Call of the Wild\u2122",
+    "unsearchable": false
+  }
+}

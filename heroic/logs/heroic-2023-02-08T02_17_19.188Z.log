@@ -1,0 +1,89 @@
+(21:17:19) INFO:    [Connection]:       Connectivity: check-online
+(21:17:19) INFO:    [Connection]:       Pinging external endpoints
+(21:17:19) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(21:17:19) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(21:17:19) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:17:19) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:17:19) WARNING: [Backend]:          Protocol already registered.
+(21:17:19) INFO:    [Connection]:       Connectivity: online
+(21:17:19) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(21:17:19) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:17:19) INFO:    [Backend]:          Loading Screen Ready
+(21:17:19) INFO:    [Frontend]:         Refreshing Library
+(21:17:19) INFO:    [Legendary]:        Refreshing library...
+(21:17:19) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:17:20) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(21:17:20) INFO:    [Backend]:          Frontend Ready
+(21:17:20) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:17:20) INFO:    [Backend]:          Checking for current version changelog
+(21:17:20) INFO:    [Frontend]:         Updated to a new version, cleaaning up the cache.
+(21:17:20) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+(21:17:20) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:17:20) INFO:    [Backend]:          
+
+Heroic Version: 2.6.2 Trafalgar Law
+Legendary Version:  0.20.32 Dark Energy (hotfix #6)
+GOGdl Version: 0.6
+
+Electron Version: 22.2.0
+Chrome Version: 108.0.5359.215
+NodeJS Version: 16.17.1
+
+OS: Arch KERNEL: 6.1.9-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 10.54 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+(21:17:20) INFO:    [Legendary]:        Checking for game updates: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:17:21) INFO:    [Winetricks]:       Downloading Winetricks
+(21:17:21) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-v2.8
+(21:17:22) DEBUG:   [Legendary]:        Update is available for Jackal: 1.12.4.412990 != 1.13.1.423746
+(21:17:22) INFO:    [Legendary]:        Found 1 game to update
+(21:17:22) INFO:    [Gog]:              Found 0 game(s) to update
+(21:17:22) INFO:    [DXVKInstaller]:    downloaded vkd3d
+(21:17:22) INFO:    [DXVKInstaller]:    extracting vkd3d
+(21:17:22) INFO:    [DXVKInstaller]:    vkd3d updated!
+(21:17:25) INFO:    [Backend]:          Starting the Download Queue
+(21:18:12) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/goldrn/Games/Heroic/Prefixes/Celeste/pfx
+(21:18:12) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Celeste
+(21:18:12) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Celeste
+(21:18:12) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Celeste
+(21:18:12) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:12) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:12) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:12) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:13) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:13) INFO:    [Legendary]:        Abort command "/opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/goldrn/Games/Heroic/Prefixes/Celeste/pfx"
+(21:18:13) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:13) INFO:    [Legendary]:        Getting Info from Epic API
+(21:18:13) INFO:    [Legendary]:        Getting Info from Epic API
+(21:18:13) INFO:    [Backend]:          Launching Celeste (Salt)
+(21:18:13) INFO:    [Backend]:          Preventing display from sleep
+(21:18:13) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(21:18:13) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:13) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:18:13) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:14) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:18:14) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(21:18:14) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(21:18:14) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(21:18:14) INFO:    [Backend]:          Checking if wine version exists: Proton - Proton - Experimental
+(21:18:14) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(21:18:16) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(21:18:17) INFO:    [Legendary]:        Launching Celeste: FNA3D_FORCE_DRIVER=OpenGL LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(21:26:11) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for ABZU
+(21:26:11) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for ABZU
+(21:26:11) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for ABZU
+(21:26:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:26:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:26:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:26:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:26:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Curry --platform Windows --json
+(21:26:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Curry --platform Windows --json
+(21:26:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Curry --platform Windows --json
+(21:26:12) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Curry --platform Windows --json
+(21:26:12) INFO:    [Legendary]:        Getting Info from Epic API
+(21:26:12) INFO:    [Legendary]:        Getting Info from Epic API

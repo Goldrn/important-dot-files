@@ -1,0 +1,117 @@
+{
+  "app_name": "Almond",
+  "app_title": "InnerSpace",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Almond",
+      "asset_id": "Almond",
+      "build_version": "1.0.0c",
+      "catalog_item_id": "cfc6700550314690b6d174393166a1cc",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "387bc8d3398a40f7ae14de417b4acefc"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-05T20:52:37.939Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "InnerSpace"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "387bc8d3398a40f7ae14de417b4acefc"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "InnerSpace",
+    "developer": "Aspyr Media, Inc.",
+    "developerId": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+    "endOfSupport": false,
+    "entitlementName": "cfc6700550314690b6d174393166a1cc",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "cfc6700550314690b6d174393166a1cc",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4c52c2954a5f9eddd0918eace407e1c2",
+        "size": 123801,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2019-10-22T09:41:44.790Z",
+        "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_aspyr_InnerSpace_S3_StorePortraitPromo-1280x1440-4c52c2954a5f9eddd0918eace407e1c2.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1440,
+        "md5": "94b204bad86bd4eb0ea90675cd2d4f22",
+        "size": 217828,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-02-20T14:34:09.039Z",
+        "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_aspyr_InnerSpace_S1_StorePrimary-2560x1440-94b204bad86bd4eb0ea90675cd2d4f22-2560x1440-94b204bad86bd4eb0ea90675cd2d4f22.jpg",
+        "width": 2560
+      },
+      {
+        "height": 426,
+        "md5": "ff5e261d2fe9a372f5bcabfff54f7c64",
+        "size": 53779,
+        "type": "DieselGameBoxLogo",
+        "uploadedDate": "2020-02-20T14:34:26.326Z",
+        "url": "https://cdn1.epicgames.com/387bc8d3398a40f7ae14de417b4acefc/item/EGS_Aspyr_InnerSpace_IC1-white-827x426-ff5e261d2fe9a372f5bcabfff54f7c64-827x426-ff5e261d2fe9a372f5bcabfff54f7c64.png",
+        "width": 827
+      }
+    ],
+    "lastModifiedDate": "2020-02-20T15:05:29.585Z",
+    "namespace": "387bc8d3398a40f7ae14de417b4acefc",
+    "releaseInfo": [
+      {
+        "appId": "Almond",
+        "dateAdded": "2020-02-14T00:00:00.000Z",
+        "id": "3b0592a3c67e449ca99da1e394e72025",
+        "platform": [
+          "Windows",
+          "Mac"
+        ]
+      }
+    ],
+    "selfRefundable": true,
+    "status": "ACTIVE",
+    "title": "InnerSpace",
+    "unsearchable": false
+  }
+}

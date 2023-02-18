@@ -1,0 +1,57 @@
+(21:55:44) INFO:    [Connection]:       Connectivity: check-online
+(21:55:44) INFO:    [Connection]:       Pinging external endpoints
+(21:55:44) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(21:55:44) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(21:55:44) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:55:44) WARNING: [Backend]:          Protocol already registered.
+(21:55:44) INFO:    [Connection]:       Connectivity: online
+(21:55:44) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(21:55:44) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:55:45) INFO:    [Backend]:          
+
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Arch KERNEL: 6.1.7-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 9.79 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+(21:55:45) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:55:45) INFO:    [Backend]:          Checking for current version changelog
+(21:55:45) INFO:    [Frontend]:         Refreshing Library
+(21:55:45) INFO:    [Legendary]:        Refreshing library...
+(21:55:45) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:55:45) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(21:55:45) INFO:    [Backend]:          Frontend Ready
+(21:55:45) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:55:47) INFO:    [Winetricks]:       Downloading Winetricks
+(21:55:47) INFO:    [DXVKInstaller]:    Updating dxvk to: dxvk-2.1
+(21:55:48) INFO:    [DXVKInstaller]:    downloaded dxvk
+(21:55:48) INFO:    [DXVKInstaller]:    extracting dxvk
+(21:55:48) INFO:    [DXVKInstaller]:    dxvk updated!
+(21:55:50) INFO:    [Backend]:          Starting the Download Queue
+(21:56:01) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:56:01) DEBUG:   [Backend]:          {"free":472332050432,"diskSize":983138598912,"message":"439.89 GiB / 915.62 GiB","validPath":true}
+(21:56:01) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:56:01) ERROR:   [Legendary]:        Error: Failed to parse install info for Salt with: SyntaxError: Unexpected end of JSON input
+    at R.getInstallInfo (/opt/heroic/resources/app.asar/build/electron/main.f5946442.js:57:8862)
+    at async /opt/heroic/resources/app.asar/build/electron/main.f5946442.js:134:6572
+    at async node:electron/js2c/browser_init:193:551
+(21:57:14) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:57:14) DEBUG:   [Backend]:          {"free":472332939264,"diskSize":983138598912,"message":"439.89 GiB / 915.62 GiB","validPath":true}
+(21:57:14) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:57:15) ERROR:   [Legendary]:        Error: Failed to parse install info for Salt with: SyntaxError: Unexpected end of JSON input
+    at R.getInstallInfo (/opt/heroic/resources/app.asar/build/electron/main.f5946442.js:57:8862)
+    at async /opt/heroic/resources/app.asar/build/electron/main.f5946442.js:134:6572
+    at async node:electron/js2c/browser_init:193:551
+(21:57:22) INFO:    [Backend]:          Writing config for Salt
+(21:57:22) INFO:    [Backend]:          Changed config: winePrefix from /home/goldrn/.wine to /home/goldrn/Games/Heroic/Prefixes/Celeste
+(21:57:24) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:57:24) DEBUG:   [Backend]:          {"free":472332963840,"diskSize":983138598912,"message":"439.89 GiB / 915.62 GiB","validPath":true}
+(21:57:24) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:57:25) ERROR:   [Legendary]:        Error: Failed to parse install info for Salt with: SyntaxError: Unexpected end of JSON input
+    at R.getInstallInfo (/opt/heroic/resources/app.asar/build/electron/main.f5946442.js:57:8862)
+    at async /opt/heroic/resources/app.asar/build/electron/main.f5946442.js:134:6572
+    at async node:electron/js2c/browser_init:193:551

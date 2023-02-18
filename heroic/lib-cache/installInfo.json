@@ -1,0 +1,90 @@
+{
+	"Salt": {
+		"game": {
+			"app_name": "Salt",
+			"title": "Celeste",
+			"version": "1.4.0.0-Windows",
+			"platform_versions": {
+				"Windows": "1.4.0.0-Windows"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{InstallDir}/Saves/",
+			"cloud_save_folder_mac": "{UserLibrary}/Application Support/Celeste/Saves/",
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": {
+			"platform": "Windows",
+			"version": "1.4.0.0-Windows",
+			"disk_size": 1171334315,
+			"install_path": "/home/goldrn/Games/Heroic/Celeste",
+			"save_path": null,
+			"synced_egl_guid": "",
+			"install_tags": [],
+			"requires_ovt": false,
+			"installed_dlc": []
+		},
+		"manifest": {
+			"size": 115842,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Salt",
+			"launch_exe": "Celeste.exe",
+			"launch_command": "",
+			"build_version": "1.4.0.0-Windows",
+			"build_id": "7P9Ud09mIYjhUGk9m9OMcJaSxOg",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 1225,
+			"num_chunks": 1107,
+			"disk_size": 1171334315,
+			"download_size": 857061270,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Curry": {
+		"game": {
+			"app_name": "Curry",
+			"title": "ABZU",
+			"version": "1.0",
+			"platform_versions": {
+				"Windows": "1.0"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1534261,
+			"type": "json",
+			"version": 13,
+			"feature_level": 13,
+			"app_name": "Curry",
+			"launch_exe": "AbzuGame.exe",
+			"launch_command": "",
+			"build_version": "1.0",
+			"build_id": "dcqkzxtU5019Q4rfjW1M8d2HuwU",
+			"prerequisites": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 14,
+			"num_chunks": 4596,
+			"disk_size": 4818969865,
+			"download_size": 1404661275,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

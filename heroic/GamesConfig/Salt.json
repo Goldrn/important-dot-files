@@ -1,0 +1,26 @@
+{
+  "Salt": {
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "preferSystemLibs": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [
+      {
+        "key": "FNA3D_FORCE_DRIVER",
+        "value": "OpenGL"
+      }
+    ],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "language": "",
+    "wineVersion": {
+      "bin": "/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton",
+      "name": "Proton - Proton - Experimental",
+      "type": "proton"
+    },
+    "winePrefix": "/home/goldrn/Games/Heroic/Prefixes/Celeste"
+  },
+  "version": "v0",
+  "explicit": true
+}

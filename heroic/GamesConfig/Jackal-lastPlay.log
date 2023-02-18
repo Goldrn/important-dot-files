@@ -1,0 +1,1020 @@
+System Info:
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Arch KERNEL: 6.0.12-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 10.66 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.60.11 
+PROTOCOL: x11
+
+Game Settings: {
+	"autoInstallDxvk": true,
+	"autoInstallVkd3d": true,
+	"preferSystemLibs": false,
+	"nvidiaPrime": false,
+	"enviromentOptions": [],
+	"wrapperOptions": [],
+	"showFps": false,
+	"useGameMode": false,
+	"language": "",
+	"wineVersion": {
+		"bin": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine",
+		"name": "Wine - lutris-GE-Proton7-27-x86_64",
+		"type": "wine",
+		"lib": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64",
+		"lib32": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib",
+		"wineserver": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineserver",
+		"wineboot": "/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineboot"
+	},
+	"winePrefix": "/home/goldrn/Games/Heroic/Prefixes/Dauntless",
+	"eacRuntime": true,
+	"battlEyeRuntime": true
+}
+
+Game launched at: Sat Dec 31 2022 22:26:48 GMT-0500 (Eastern Standard Time)
+
+Legendary's config from config.ini (before Heroic's settings):
+{
+  "game_parameters": [],
+  "game_executable": "Dauntless.exe",
+  "game_directory": "/home/goldrn/Games/Heroic/Dauntless",
+  "launch_command": [
+    "wine"
+  ],
+  "working_directory": "/home/goldrn/Games/Heroic/Dauntless",
+  "user_parameters": [],
+  "environment": {},
+  "pre_launch_command": "",
+  "pre_launch_wait": false
+}
+
+Launch Command: LD_PRELOAD= WINEPREFIX=/home/goldrn/Games/Heroic/Prefixes/Dauntless PROTON_EAC_RUNTIME=/home/goldrn/.config/heroic/tools/runtimes/eac_runtime PROTON_BATTLEYE_RUNTIME=/home/goldrn/.config/heroic/tools/runtimes/battleye_runtime ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64/gstreamer-1.0:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/gstreamer-1.0 WINEDLLPATH=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64/wine:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/wine /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Jackal --language en --wine /home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine 
+
+Game Log:
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Checking for updates...
+[Core] INFO: Getting authentication token...
+[cli] INFO: Launching Jackal...
+wineserver: using server-side synchronization.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+002c:fixme:winediag:LdrInitializeThunk wine-staging 7.0 is a testing version containing experimental patches.
+002c:fixme:winediag:LdrInitializeThunk Please mention your exact version when filing bug reports on winehq.org.
+0108:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0108:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+010c:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFA, 039EFEF8
+0070:fixme:imm:ImeSetActiveContext (0x4803d0, 0): stub
+0070:fixme:imm:ImmReleaseContext (0000000000010020, 00000000004803D0): stub
+0024:fixme:imm:ImeSetActiveContext (0x7704b0, 1): stub
+0024:fixme:imm:ImmReleaseContext (00020054, 007704B0): stub
+0100:fixme:oleacc:find_class_data unhandled window class: L"Button"
+0100:fixme:oleacc:find_class_data unhandled window class: L"Button"
+0100:fixme:oleacc:find_class_data unhandled window class: L"Button"
+0100:fixme:oleacc:find_class_data unhandled window class: L"Button"
+0108:fixme:secur32:get_cipher_algid unknown algorithm 23
+0108:fixme:secur32:get_mac_algid unknown algorithm 200, cipher 23
+0118:err:wldap32:DllMain No libldap support, expect problems
+0118:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+[2023-01-01T03:27:01,928][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Water_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,928][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Water_0-WindowsClient.pak.
+[2023-01-01T03:27:01,929][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_9-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,929][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_9-WindowsClient.pak.
+[2023-01-01T03:27:01,929][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_8-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,929][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_8-WindowsClient.pak.
+[2023-01-01T03:27:01,930][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_7-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,930][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_7-WindowsClient.pak.
+[2023-01-01T03:27:01,931][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_6-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,931][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_6-WindowsClient.pak.
+[2023-01-01T03:27:01,932][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_5-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,932][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_5-WindowsClient.pak.
+[2023-01-01T03:27:01,934][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,934][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_4-WindowsClient.pak.
+[2023-01-01T03:27:01,936][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,936][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_3-WindowsClient.pak.
+[2023-01-01T03:27:01,937][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,937][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_2-WindowsClient.pak.
+[2023-01-01T03:27:01,938][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_10-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,938][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_10-WindowsClient.pak.
+[2023-01-01T03:27:01,938][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,938][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_1-WindowsClient.pak.
+[2023-01-01T03:27:01,939][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_UI_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,939][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_UI_0-WindowsClient.pak.
+[2023-01-01T03:27:01,942][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Rock_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,942][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Rock_1-WindowsClient.pak.
+[2023-01-01T03:27:01,942][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Rock_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,942][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Rock_0-WindowsClient.pak.
+[2023-01-01T03:27:01,943][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Player_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,943][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Player_3-WindowsClient.pak.
+[2023-01-01T03:27:01,944][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Player_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,944][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Player_2-WindowsClient.pak.
+[2023-01-01T03:27:01,944][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Player_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,944][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Player_1-WindowsClient.pak.
+[2023-01-01T03:27:01,946][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Player_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,946][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Player_0-WindowsClient.pak.
+[2023-01-01T03:27:01,947][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_NPCs_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,947][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_NPCs_3-WindowsClient.pak.
+[2023-01-01T03:27:01,947][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_NPCs_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,947][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_NPCs_2-WindowsClient.pak.
+[2023-01-01T03:27:01,948][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_NPCs_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,948][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_NPCs_1-WindowsClient.pak.
+[2023-01-01T03:27:01,948][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_NPCs_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,948][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_NPCs_0-WindowsClient.pak.
+[2023-01-01T03:27:01,949][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_MoviesHP_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,949][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_MoviesHP_0-WindowsClient.pak.
+[2023-01-01T03:27:01,949][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Maps_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,949][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Maps_2-WindowsClient.pak.
+[2023-01-01T03:27:01,950][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Maps_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,950][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Maps_1-WindowsClient.pak.
+[2023-01-01T03:27:01,950][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Maps_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,950][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Maps_0-WindowsClient.pak.
+[2023-01-01T03:27:01,951][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Landscape_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,951][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Landscape_0-WindowsClient.pak.
+[2023-01-01T03:27:01,951][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Intl_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,951][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Intl_0-WindowsClient.pak.
+[2023-01-01T03:27:01,952][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Engine_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,952][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Engine_0-WindowsClient.pak.
+[2023-01-01T03:27:01,953][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Effects_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,954][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Effects_4-WindowsClient.pak.
+[2023-01-01T03:27:01,954][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Effects_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,954][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Effects_3-WindowsClient.pak.
+[2023-01-01T03:27:01,956][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Effects_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,956][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Effects_2-WindowsClient.pak.
+[2023-01-01T03:27:01,959][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Effects_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,959][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Effects_1-WindowsClient.pak.
+[2023-01-01T03:27:01,961][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Effects_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,961][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Effects_0-WindowsClient.pak.
+[2023-01-01T03:27:01,963][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Audio_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,963][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Audio_4-WindowsClient.pak.
+[2023-01-01T03:27:01,964][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Audio_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,964][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Audio_3-WindowsClient.pak.
+[2023-01-01T03:27:01,966][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Audio_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,966][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Audio_2-WindowsClient.pak.
+[2023-01-01T03:27:01,968][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Audio_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,968][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Audio_1-WindowsClient.pak.
+[2023-01-01T03:27:01,970][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Audio_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,970][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Audio_0-WindowsClient.pak.
+[2023-01-01T03:27:01,972][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Atmospheres_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,972][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Atmospheres_0-WindowsClient.pak.
+[2023-01-01T03:27:01,974][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_9-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,974][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_9-WindowsClient.pak.
+[2023-01-01T03:27:01,975][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_8-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,975][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_8-WindowsClient.pak.
+[2023-01-01T03:27:01,976][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_7-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,976][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_7-WindowsClient.pak.
+[2023-01-01T03:27:01,977][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_6-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,977][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_6-WindowsClient.pak.
+[2023-01-01T03:27:01,978][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_5-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:01,978][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_5-WindowsClient.pak.
+[2023-01-01T03:27:02,038][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,038][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_4-WindowsClient.pak.
+[2023-01-01T03:27:02,039][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_38-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,039][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_38-WindowsClient.pak.
+[2023-01-01T03:27:02,040][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_37-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,040][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_37-WindowsClient.pak.
+[2023-01-01T03:27:02,042][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_36-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,042][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_36-WindowsClient.pak.
+[2023-01-01T03:27:02,044][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_35-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,044][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_35-WindowsClient.pak.
+[2023-01-01T03:27:02,046][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_34-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,046][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_34-WindowsClient.pak.
+[2023-01-01T03:27:02,047][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_33-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,047][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_33-WindowsClient.pak.
+[2023-01-01T03:27:02,048][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_32-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,048][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_32-WindowsClient.pak.
+[2023-01-01T03:27:02,050][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_31-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,050][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_31-WindowsClient.pak.
+[2023-01-01T03:27:02,051][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_30-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,051][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_30-WindowsClient.pak.
+[2023-01-01T03:27:02,052][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,052][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_3-WindowsClient.pak.
+[2023-01-01T03:27:02,054][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_29-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,054][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_29-WindowsClient.pak.
+[2023-01-01T03:27:02,055][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_28-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,056][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_28-WindowsClient.pak.
+[2023-01-01T03:27:02,056][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_27-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,057][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_27-WindowsClient.pak.
+[2023-01-01T03:27:02,058][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_26-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,058][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_26-WindowsClient.pak.
+[2023-01-01T03:27:02,059][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_25-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,059][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_25-WindowsClient.pak.
+[2023-01-01T03:27:02,060][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_24-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,060][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_24-WindowsClient.pak.
+[2023-01-01T03:27:02,061][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_23-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,061][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_23-WindowsClient.pak.
+[2023-01-01T03:27:02,063][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_22-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,063][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_22-WindowsClient.pak.
+[2023-01-01T03:27:02,064][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_21-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,064][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_21-WindowsClient.pak.
+[2023-01-01T03:27:02,065][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_20-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,065][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_20-WindowsClient.pak.
+[2023-01-01T03:27:02,066][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,067][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_2-WindowsClient.pak.
+[2023-01-01T03:27:02,068][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_19-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,068][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_19-WindowsClient.pak.
+[2023-01-01T03:27:02,070][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_18-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,070][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_18-WindowsClient.pak.
+[2023-01-01T03:27:02,071][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_17-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,071][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_17-WindowsClient.pak.
+[2023-01-01T03:27:02,073][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_16-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,073][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_16-WindowsClient.pak.
+[2023-01-01T03:27:02,074][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_15-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,074][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_15-WindowsClient.pak.
+[2023-01-01T03:27:02,075][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_14-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,075][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_14-WindowsClient.pak.
+[2023-01-01T03:27:02,077][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_13-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,077][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_13-WindowsClient.pak.
+[2023-01-01T03:27:02,078][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_12-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,078][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_12-WindowsClient.pak.
+[2023-01-01T03:27:02,079][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_11-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,079][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_11-WindowsClient.pak.
+[2023-01-01T03:27:02,080][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_10-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,080][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_10-WindowsClient.pak.
+[2023-01-01T03:27:02,081][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,081][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_1-WindowsClient.pak.
+[2023-01-01T03:27:02,082][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourC_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,082][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourC_0-WindowsClient.pak.
+[2023-01-01T03:27:02,084][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourB_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,084][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourB_1-WindowsClient.pak.
+[2023-01-01T03:27:02,085][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourB_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,085][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourB_0-WindowsClient.pak.
+[2023-01-01T03:27:02,086][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_8-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,086][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_8-WindowsClient.pak.
+[2023-01-01T03:27:02,087][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_7-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,087][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_7-WindowsClient.pak.
+[2023-01-01T03:27:02,088][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_6-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,088][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_6-WindowsClient.pak.
+[2023-01-01T03:27:02,090][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_5-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,090][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_5-WindowsClient.pak.
+[2023-01-01T03:27:02,091][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,091][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_4-WindowsClient.pak.
+[2023-01-01T03:27:02,092][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,092][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_3-WindowsClient.pak.
+[2023-01-01T03:27:02,093][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,093][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_2-WindowsClient.pak.
+[2023-01-01T03:27:02,094][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,094][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_1-WindowsClient.pak.
+[2023-01-01T03:27:02,096][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_ArmourA_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,096][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_ArmourA_0-WindowsClient.pak.
+[2023-01-01T03:27:02,097][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_8-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,097][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_8-WindowsClient.pak.
+[2023-01-01T03:27:02,098][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_7-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,098][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_7-WindowsClient.pak.
+[2023-01-01T03:27:02,100][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_6-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,100][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_6-WindowsClient.pak.
+[2023-01-01T03:27:02,101][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_5-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,101][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_5-WindowsClient.pak.
+[2023-01-01T03:27:02,103][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_4-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,103][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_4-WindowsClient.pak.
+[2023-01-01T03:27:02,104][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_3-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,104][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_3-WindowsClient.pak.
+[2023-01-01T03:27:02,105][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_2-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,105][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_2-WindowsClient.pak.
+[2023-01-01T03:27:02,106][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_1-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,106][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_1-WindowsClient.pak.
+[2023-01-01T03:27:02,107][  0][LogPakFile][Display]Found Pak file ../../../Archon/Content/Paks/Archon_Architecture_0-WindowsClient.pak attempting to mount.
+[2023-01-01T03:27:02,107][  0][LogPakFile][Display]Mounting pak file ../../../Archon/Content/Paks/Archon_Architecture_0-WindowsClient.pak.
+0118:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000133E5E4 0000000000000000 000000000133E5E0) returning a dummy value (current locale)
+0118:fixme:nls:get_dummy_preferred_ui_language (0x8 000000000133E5E4 000000001673A6A0 000000000133E5E0) returning a dummy value (current locale)
+[2023-01-01T03:27:02,846][  0][LogLuminAPIImpl][Warning]MLSDK not found.  This likely means the MLSDK environment variable is not set.
+0118:err:ole:com_get_class_object apartment not initialised
+[2023-01-01T03:27:03,024][  0][LogStreaming][Display]Async Loading initialized: Event Driven Loader: true, Async Loading Thread: true, Async Post Load: true
+[2023-01-01T03:27:03,068][  0][LogModuleManager][Warning]ModuleManager: Module 'ExampleDeviceProfileSelector' not found - its StaticallyLinkedModuleInitializers function is null.
+[2023-01-01T03:27:03,068][  0][LogHAL][Display]Platform has ~ 16 GB [16716120064 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+0118:fixme:gameux:GameExplorerImpl_VerifyAccess (0000000021294C50, L"Z:\\home\\goldrn\\Games\\Heroic\\Dauntless\\Archon\\Binaries\\Win64\\Dauntless-Win64-Shipping.exe", 000000000133E3A0)
+0118:fixme:win:DisableProcessWindowsGhosting : stub
+0118:fixme:msctf:InputProcessorProfileMgr_GetActiveProfile (0000000021284670)->({34745c63-b2f0-4784-8b67-5e12c8701a31} 000000000133E970)
+[2023-01-01T03:27:03,111][  0][LogWindowsTextInputMethodSystem][Display]IME system deactivated.
+0118:fixme:system:NtUserSystemParametersInfo Unimplemented action: 59 (SPI_SETSTICKYKEYS)
+0118:fixme:system:NtUserSystemParametersInfo Unimplemented action: 53 (SPI_SETTOGGLEKEYS)
+0118:fixme:system:NtUserSystemParametersInfo Unimplemented action: 51 (SPI_SETFILTERKEYS)
+info:  Game: Dauntless-Win64-Shipping.exe
+info:  DXVK: v2.0
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  NVIDIA GeForce GTX 1660 Ti:
+info:    Driver: 525.60.11
+info:    Vulkan: 1.3.224
+info:    Memory Heap[0]: 
+info:      Size: 6144 MiB
+info:      Flags: 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11956 MiB
+info:      Flags: 0x0
+info:      Memory Type[0]: Property Flags = 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 246 MiB
+info:      Flags: 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:  D3D11CoreCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+info:  D3D11CoreCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+info:  Device properties:
+info:    Device name:     : NVIDIA GeForce GTX 1660 Ti
+info:    Driver version   : 525.60.11
+info:  Enabled device extensions:
+info:    VK_EXT_attachment_feedback_loop_layout
+info:    VK_EXT_conservative_rasterization
+info:    VK_EXT_custom_border_color
+info:    VK_EXT_depth_clip_enable
+info:    VK_EXT_fragment_shader_interlock
+info:    VK_EXT_graphics_pipeline_library
+info:    VK_EXT_non_seamless_cube_map
+info:    VK_EXT_robustness2
+info:    VK_EXT_shader_module_identifier
+info:    VK_EXT_transform_feedback
+info:    VK_EXT_vertex_attribute_divisor
+info:    VK_KHR_external_memory_win32
+info:    VK_KHR_external_semaphore_win32
+info:    VK_KHR_pipeline_library
+info:    VK_KHR_swapchain
+info:    VK_NVX_binary_import
+info:    VK_NVX_image_view_handle
+info:  Device features:
+info:    robustBufferAccess                     : 1
+info:    fullDrawIndexUint32                    : 1
+info:    imageCubeArray                         : 1
+info:    independentBlend                       : 1
+info:    geometryShader                         : 1
+info:    tessellationShader                     : 1
+info:    sampleRateShading                      : 1
+info:    dualSrcBlend                           : 1
+info:    logicOp                                : 1
+info:    multiDrawIndirect                      : 1
+info:    drawIndirectFirstInstance              : 1
+info:    depthClamp                             : 1
+info:    depthBiasClamp                         : 1
+info:    fillModeNonSolid                       : 1
+info:    depthBounds                            : 1
+info:    multiViewport                          : 1
+info:    samplerAnisotropy                      : 1
+info:    textureCompressionBC                   : 1
+info:    occlusionQueryPrecise                  : 1
+info:    pipelineStatisticsQuery                : 1
+info:    vertexPipelineStoresAndAtomics         : 1
+info:    fragmentStoresAndAtomics               : 1
+info:    shaderImageGatherExtended              : 1
+info:    shaderClipDistance                     : 1
+info:    shaderCullDistance                     : 1
+info:    shaderFloat64                          : 1
+info:    shaderInt64                            : 1
+info:    variableMultisampleRate                : 1
+info:    shaderResourceResidency                : 1
+info:    shaderResourceMinLod                   : 1
+info:    sparseBinding                          : 1
+info:    sparseResidencyBuffer                  : 1
+info:    sparseResidencyImage2D                 : 1
+info:    sparseResidencyImage3D                 : 1
+info:    sparseResidency2Samples                : 1
+info:    sparseResidency4Samples                : 1
+info:    sparseResidency8Samples                : 1
+info:    sparseResidency16Samples               : 1
+info:    sparseResidencyAliased                 : 1
+info:  Vulkan 1.1
+info:    shaderDrawParameters                   : 1
+info:  Vulkan 1.2
+info:    samplerMirrorClampToEdge               : 1
+info:    drawIndirectCount                      : 1
+info:    samplerFilterMinmax                    : 1
+info:    hostQueryReset                         : 1
+info:    timelineSemaphore                      : 1
+info:    bufferDeviceAddress                    : 1
+info:    shaderOutputViewportIndex              : 1
+info:    shaderOutputLayer                      : 1
+info:    vulkanMemoryModel                      : 1
+info:  Vulkan 1.3
+info:    robustImageAccess                      : 0
+info:    pipelineCreationCacheControl           : 1
+info:    shaderDemoteToHelperInvocation         : 1
+info:    shaderZeroInitializeWorkgroupMemory    : 0
+info:    synchronization2                       : 1
+info:    dynamicRendering                       : 1
+info:  VK_AMD_shader_fragment_mask
+info:    extension supported                    : 0
+info:  VK_EXT_attachment_feedback_loop_layout
+info:    attachmentFeedbackLoopLayout           : 0
+info:  VK_EXT_conservative_rasterization
+info:    extension supported                    : 1
+info:  VK_EXT_custom_border_color
+info:    customBorderColors                     : 1
+info:    customBorderColorWithoutFormat         : 1
+info:  VK_EXT_depth_clip_enable
+info:    depthClipEnable                        : 1
+info:  VK_EXT_extended_dynamic_state3
+info:    extendedDynamicState3DepthClipEnable   : 0
+info:  VK_EXT_fragment_shader_interlock
+info:    fragmentShaderSampleInterlock          : 1
+info:    fragmentShaderPixelInterlock           : 1
+info:  VK_EXT_full_screen_exclusive
+info:    extension supported                    : 0
+info:  VK_EXT_graphics_pipeline_library
+info:    graphicsPipelineLibrary                : 1
+info:  VK_EXT_memory_budget
+info:    extension supported                    : 1
+info:  VK_EXT_memory_priority
+info:    memoryPriority                         : 0
+info:  VK_EXT_non_seamless_cube_map
+info:    nonSeamlessCubeMap                     : 0
+info:  VK_EXT_robustness2
+info:    robustBufferAccess2                    : 1
+info:    robustImageAccess2                     : 1
+info:    nullDescriptor                         : 1
+info:  VK_EXT_shader_module_identifier
+info:    shaderModuleIdentifier                 : 1
+info:  VK_EXT_shader_stencil_export
+info:    extension supported                    : 0
+info:  VK_EXT_transform_feedback
+info:    transformFeedback                      : 1
+info:    geometryStreams                        : 1
+info:  VK_EXT_vertex_attribute_divisor
+info:    vertexAttributeInstanceRateDivisor     : 1
+info:    vertexAttributeInstanceRateZeroDivisor : 1
+info:  VK_KHR_external_memory_win32
+info:    extension supported                    : 1
+info:  VK_KHR_external_semaphore_win32
+info:    extension supported                    : 1
+info:  VK_NVX_binary_import
+info:    extension supported                    : 1
+info:  VK_NVX_image_view_handle
+info:    extension supported                    : 1
+info:  Queue families:
+info:    Graphics : 0
+info:    Transfer : 1
+info:    Sparse   : 0
+info:  Memory type mask for sparse resources: 0x2
+warn:  DXVK: No state cache file found
+warn:  DXVK: Creating new state cache file
+info:  DXVK: Graphics pipeline libraries supported
+info:  DXGI: NvAPI workaround enabled, reporting AMD GPU
+info:  Game: Dauntless-Win64-Shipping.exe
+info:  DXVK: v2.0
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  NVIDIA GeForce GTX 1660 Ti:
+info:    Driver: 525.60.11
+info:    Vulkan: 1.3.224
+info:    Memory Heap[0]: 
+info:      Size: 6144 MiB
+info:      Flags: 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11956 MiB
+info:      Flags: 0x0
+info:      Memory Type[0]: Property Flags = 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 246 MiB
+info:      Flags: 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:  D3D11CoreCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+info:  D3D11CoreCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+info:  Device properties:
+info:    Device name:     : NVIDIA GeForce GTX 1660 Ti
+info:    Driver version   : 525.60.11
+info:  Enabled device extensions:
+info:    VK_EXT_attachment_feedback_loop_layout
+info:    VK_EXT_conservative_rasterization
+info:    VK_EXT_custom_border_color
+info:    VK_EXT_depth_clip_enable
+info:    VK_EXT_fragment_shader_interlock
+info:    VK_EXT_graphics_pipeline_library
+info:    VK_EXT_non_seamless_cube_map
+info:    VK_EXT_robustness2
+info:    VK_EXT_shader_module_identifier
+info:    VK_EXT_transform_feedback
+info:    VK_EXT_vertex_attribute_divisor
+info:    VK_KHR_external_memory_win32
+info:    VK_KHR_external_semaphore_win32
+info:    VK_KHR_pipeline_library
+info:    VK_KHR_swapchain
+info:    VK_NVX_binary_import
+info:    VK_NVX_image_view_handle
+info:  Device features:
+info:    robustBufferAccess                     : 1
+info:    fullDrawIndexUint32                    : 1
+info:    imageCubeArray                         : 1
+info:    independentBlend                       : 1
+info:    geometryShader                         : 1
+info:    tessellationShader                     : 1
+info:    sampleRateShading                      : 1
+info:    dualSrcBlend                           : 1
+info:    logicOp                                : 1
+info:    multiDrawIndirect                      : 1
+info:    drawIndirectFirstInstance              : 1
+info:    depthClamp                             : 1
+info:    depthBiasClamp                         : 1
+info:    fillModeNonSolid                       : 1
+info:    depthBounds                            : 1
+info:    multiViewport                          : 1
+info:    samplerAnisotropy                      : 1
+info:    textureCompressionBC                   : 1
+info:    occlusionQueryPrecise                  : 1
+info:    pipelineStatisticsQuery                : 1
+info:    vertexPipelineStoresAndAtomics         : 1
+info:    fragmentStoresAndAtomics               : 1
+info:    shaderImageGatherExtended              : 1
+info:    shaderClipDistance                     : 1
+info:    shaderCullDistance                     : 1
+info:    shaderFloat64                          : 1
+info:    shaderInt64                            : 1
+info:    variableMultisampleRate                : 1
+info:    shaderResourceResidency                : 1
+info:    shaderResourceMinLod                   : 1
+info:    sparseBinding                          : 1
+info:    sparseResidencyBuffer                  : 1
+info:    sparseResidencyImage2D                 : 1
+info:    sparseResidencyImage3D                 : 1
+info:    sparseResidency2Samples                : 1
+info:    sparseResidency4Samples                : 1
+info:    sparseResidency8Samples                : 1
+info:    sparseResidency16Samples               : 1
+info:    sparseResidencyAliased                 : 1
+info:  Vulkan 1.1
+info:    shaderDrawParameters                   : 1
+info:  Vulkan 1.2
+info:    samplerMirrorClampToEdge               : 1
+info:    drawIndirectCount                      : 1
+info:    samplerFilterMinmax                    : 1
+info:    hostQueryReset                         : 1
+info:    timelineSemaphore                      : 1
+info:    bufferDeviceAddress                    : 1
+info:    shaderOutputViewportIndex              : 1
+info:    shaderOutputLayer                      : 1
+info:    vulkanMemoryModel                      : 1
+info:  Vulkan 1.3
+info:    robustImageAccess                      : 0
+info:    pipelineCreationCacheControl           : 1
+info:    shaderDemoteToHelperInvocation         : 1
+info:    shaderZeroInitializeWorkgroupMemory    : 0
+info:    synchronization2                       : 1
+info:    dynamicRendering                       : 1
+info:  VK_AMD_shader_fragment_mask
+info:    extension supported                    : 0
+info:  VK_EXT_attachment_feedback_loop_layout
+info:    attachmentFeedbackLoopLayout           : 0
+info:  VK_EXT_conservative_rasterization
+info:    extension supported                    : 1
+info:  VK_EXT_custom_border_color
+info:    customBorderColors                     : 1
+info:    customBorderColorWithoutFormat         : 1
+info:  VK_EXT_depth_clip_enable
+info:    depthClipEnable                        : 1
+info:  VK_EXT_extended_dynamic_state3
+info:    extendedDynamicState3DepthClipEnable   : 0
+info:  VK_EXT_fragment_shader_interlock
+info:    fragmentShaderSampleInterlock          : 1
+info:    fragmentShaderPixelInterlock           : 1
+info:  VK_EXT_full_screen_exclusive
+info:    extension supported                    : 0
+info:  VK_EXT_graphics_pipeline_library
+info:    graphicsPipelineLibrary                : 1
+info:  VK_EXT_memory_budget
+info:    extension supported                    : 1
+info:  VK_EXT_memory_priority
+info:    memoryPriority                         : 0
+info:  VK_EXT_non_seamless_cube_map
+info:    nonSeamlessCubeMap                     : 0
+info:  VK_EXT_robustness2
+info:    robustBufferAccess2                    : 1
+info:    robustImageAccess2                     : 1
+info:    nullDescriptor                         : 1
+info:  VK_EXT_shader_module_identifier
+info:    shaderModuleIdentifier                 : 1
+info:  VK_EXT_shader_stencil_export
+info:    extension supported                    : 0
+info:  VK_EXT_transform_feedback
+info:    transformFeedback                      : 1
+info:    geometryStreams                        : 1
+info:  VK_EXT_vertex_attribute_divisor
+info:    vertexAttributeInstanceRateDivisor     : 1
+info:    vertexAttributeInstanceRateZeroDivisor : 1
+info:  VK_KHR_external_memory_win32
+info:    extension supported                    : 1
+info:  VK_KHR_external_semaphore_win32
+info:    extension supported                    : 1
+info:  VK_NVX_binary_import
+info:    extension supported                    : 1
+info:  VK_NVX_image_view_handle
+info:    extension supported                    : 1
+info:  Queue families:
+info:    Graphics : 0
+info:    Transfer : 1
+info:    Sparse   : 0
+info:  Memory type mask for sparse resources: 0x2
+info:  DXVK: Read 0 valid state cache entries
+info:  DXVK: Graphics pipeline libraries supported
+warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+warn:  a7aa6116-9c8d-4bba-9083-b4d816b71b78
+warn:  D3D11DXGIDevice::QueryInterface: Unknown interface query
+warn:  ccffef16-7b69-468f-bce3-cd953369a39a
+[2023-01-01T03:27:03,523][  0][LogShaderLibrary][Display]Using ../../../Archon/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2075 unique shaders.
+[2023-01-01T03:27:03,523][  0][LogShaderLibrary][Display]Cooked Context: Using Shared Shader Library Global
+[2023-01-01T03:27:03,524][  0][LogTemp][Warning]Clearing the OS Cache
+0118:fixme:imm:ImmReleaseContext (000000000001009E, 0000000000000000): stub
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1920x1080
+info:    Image count:  3
+info:    Exclusive FS: 1
+warn:  DXGI: MakeWindowAssociation: Ignoring flags
+[2023-01-01T03:27:03,748][  0][LogShaderLibrary][Display]Using ../../../Archon/Content/ShaderArchive-Archon-PCD3D_SM5.ushaderbytecode for material shader code. Total 76504 unique shaders.
+[2023-01-01T03:27:03,748][  0][LogShaderLibrary][Display]Cooked Context: Using Shared Shader Library Archon
+[2023-01-01T03:27:03,748][  0][LogRHI][Display]Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2023-01-01T03:27:03,748][  0][LogRHI][Display]Failed to open default shader pipeline cache for Archon using shader platform 0.
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1920x1080
+info:    Image count:  3
+info:    Exclusive FS: 1
+0024:fixme:font:NtGdiRemoveFontMemResourceEx (0xfa960331) stub
+0024:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFA, 0032FEAC
+[2023-01-01T03:27:04,336][  0][LogStreaming][Display]FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023-01-01T03:27:04,348][  0][LogSerialization][Display]AllowBulkDataInIoStore: 'true'
+[2023-01-01T03:27:04,348][  0][LogModuleManager][Warning]ModuleManager: Module 'ExampleDeviceProfileSelector' not found - its StaticallyLinkedModuleInitializers function is null.
+[2023-01-01T03:27:04,430][  0][LogTemp][Warning]ChromaSDKPlugin: Chroma SDK is not installed, skipping.
+
+(wine:43924): GStreamer-WARNING **: 22:27:04.672: Failed to load plugin '/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64/gstreamer-1.0/libgstflac.so': libFLAC.so.8: cannot open shared object file: No such file or directory
+
+(wine:43924): GStreamer-WARNING **: 22:27:04.673: Failed to load plugin '/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/gstreamer-1.0/libgstflac.so': /home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/gstreamer-1.0/libgstflac.so: wrong ELF class: ELFCLASS32
+020c:fixme:mfplat:topology_loader_Load iface 000000002129F810, input_topology 00000000213E5CF0, ret_topology 000000001F57FD08, current_topology 0000000000000000 stub!
+020c:fixme:mfplat:audio_renderer_get_service_GetService Unsupported service {866fa297-b802-4bf8-9dc9-5e3b6a9f53c9}, interface {0a9ccdbc-d797-4563-9667-94ec5d79292d}.
+020c:fixme:mfplat:media_source_QueryInterface {6ef2a662-47c0-4666-b13d-cbb717f2fa2c}, 000000001F57FCA8.
+[2023-01-01T03:27:04,903][  0][LogGauntlet][Display]Gauntlet Initialized
+info:  DXVK: Using 10 + 6 compiler threads
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1916x1076
+info:    Image count:  3
+info:    Exclusive FS: 1
+0118:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0118:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+0118:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+0118:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 000000000133D4C4, 0000000000000000 000000000133D4C0
+0118:fixme:nls:get_dummy_preferred_ui_language (0x38 000000000133D4C4 0000000000000000 000000000133D4C0) returning a dummy value (current locale)
+0118:fixme:nls:RtlGetThreadPreferredUILanguages 00000038, 000000000133D4C4, 00000000580044A0 000000000133D4C0
+0118:fixme:nls:get_dummy_preferred_ui_language (0x38 000000000133D4C4 00000000580044A0 000000000133D4C0) returning a dummy value (current locale)
+0118:fixme:winsock:WSALookupServiceBeginW (000000000133CE10 0xff0 000000000133CE08) Stub!
+[1231/222705.190:ERROR:network_change_notifier_win.cc(156)] WSALookupServiceBegin failed with: 8
+0118:fixme:iphlpapi:NotifyAddrChange (Handle 000000000133D0F0, overlapped 0000000058004F78): stub
+02fc:fixme:wlanapi:WlanEnumInterfaces (0000000000000001, 0000000000000000, 0000000070D8EDB8) semi-stub
+[2023-01-01T03:27:05,253][  0][LogAkAudio][Display]Audio Banks - Of 1 banks, 1 were loaded, 0 unloaded for the game state change.
+033c:fixme:wbemprox:client_security_SetBlanket 00000002419C3DA0, 0000000084DF0250, 10, 0, (null), 3, 3, 0000000000000000, 0x00000000
+033c:fixme:wbemprox:client_security_Release 00000002419C3DA0
+033c:fixme:wbemprox:enum_class_object_Next timeout not supported
+[2023-01-01T03:27:05,270][  0][LogAkAudio][Display]Number of audio channels found: 2
+0324:fixme:ntdll:NtQuerySystemInformation info_class SYSTEM_PERFORMANCE_INFORMATION
+0324:err:kerberos:kerberos_LsaApInitializePackage no Kerberos support, expect problems
+0324:err:ntlm:ntlm_LsaApInitializePackage no NTLM support, expect problems
+0324:fixme:heap:RtlSetHeapInformation unimplemented HeapEnableTerminationOnCorruption
+info:  Game: UnrealCEFSubProcess.exe
+info:  DXVK: v2.0
+info:  Built-in extension providers:
+info:    Win32 WSI
+info:    OpenVR
+info:    OpenXR
+info:  OpenVR: could not open registry key, status 2
+info:  OpenVR: Failed to locate module
+info:  Enabled instance extensions:
+info:    VK_KHR_get_surface_capabilities2
+info:    VK_KHR_surface
+info:    VK_KHR_win32_surface
+info:  NVIDIA GeForce GTX 1660 Ti:
+info:    Driver: 525.60.11
+info:    Vulkan: 1.3.224
+info:    Memory Heap[0]: 
+info:      Size: 6144 MiB
+info:      Flags: 0x1
+info:      Memory Type[1]: Property Flags = 0x1
+info:    Memory Heap[1]: 
+info:      Size: 11956 MiB
+info:      Flags: 0x0
+info:      Memory Type[0]: Property Flags = 0x0
+info:      Memory Type[2]: Property Flags = 0x6
+info:      Memory Type[3]: Property Flags = 0xe
+info:    Memory Heap[2]: 
+info:      Size: 246 MiB
+info:      Flags: 0x1
+info:      Memory Type[4]: Property Flags = 0x7
+info:  D3D11CoreCreateDevice: Maximum supported feature level: D3D_FEATURE_LEVEL_12_1
+info:  D3D11CoreCreateDevice: Using feature level D3D_FEATURE_LEVEL_11_0
+info:  Device properties:
+info:    Device name:     : NVIDIA GeForce GTX 1660 Ti
+info:    Driver version   : 525.60.11
+info:  Enabled device extensions:
+info:    VK_EXT_attachment_feedback_loop_layout
+info:    VK_EXT_conservative_rasterization
+info:    VK_EXT_custom_border_color
+info:    VK_EXT_depth_clip_enable
+info:    VK_EXT_fragment_shader_interlock
+info:    VK_EXT_graphics_pipeline_library
+info:    VK_EXT_non_seamless_cube_map
+info:    VK_EXT_robustness2
+info:    VK_EXT_shader_module_identifier
+info:    VK_EXT_transform_feedback
+info:    VK_EXT_vertex_attribute_divisor
+info:    VK_KHR_external_memory_win32
+info:    VK_KHR_external_semaphore_win32
+info:    VK_KHR_pipeline_library
+info:    VK_KHR_swapchain
+info:    VK_NVX_binary_import
+info:    VK_NVX_image_view_handle
+info:  Device features:
+info:    robustBufferAccess                     : 1
+info:    fullDrawIndexUint32                    : 1
+info:    imageCubeArray                         : 1
+info:    independentBlend                       : 1
+info:    geometryShader                         : 1
+info:    tessellationShader                     : 1
+info:    sampleRateShading                      : 1
+info:    dualSrcBlend                           : 1
+info:    logicOp                                : 1
+info:    multiDrawIndirect                      : 1
+info:    drawIndirectFirstInstance              : 1
+info:    depthClamp                             : 1
+info:    depthBiasClamp                         : 1
+info:    fillModeNonSolid                       : 1
+info:    depthBounds                            : 1
+info:    multiViewport                          : 1
+info:    samplerAnisotropy                      : 1
+info:    textureCompressionBC                   : 1
+info:    occlusionQueryPrecise                  : 1
+info:    pipelineStatisticsQuery                : 1
+info:    vertexPipelineStoresAndAtomics         : 1
+info:    fragmentStoresAndAtomics               : 1
+info:    shaderImageGatherExtended              : 1
+info:    shaderClipDistance                     : 1
+info:    shaderCullDistance                     : 1
+info:    shaderFloat64                          : 1
+info:    shaderInt64                            : 1
+info:    variableMultisampleRate                : 1
+info:    shaderResourceResidency                : 1
+info:    shaderResourceMinLod                   : 1
+info:    sparseBinding                          : 1
+info:    sparseResidencyBuffer                  : 1
+info:    sparseResidencyImage2D                 : 1
+info:    sparseResidencyImage3D                 : 1
+info:    sparseResidency2Samples                : 1
+info:    sparseResidency4Samples                : 1
+info:    sparseResidency8Samples                : 1
+info:    sparseResidency16Samples               : 1
+info:    sparseResidencyAliased                 : 1
+info:  Vulkan 1.1
+info:    shaderDrawParameters                   : 1
+info:  Vulkan 1.2
+info:    samplerMirrorClampToEdge               : 1
+info:    drawIndirectCount                      : 1
+info:    samplerFilterMinmax                    : 1
+info:    hostQueryReset                         : 1
+info:    timelineSemaphore                      : 1
+info:    bufferDeviceAddress                    : 1
+info:    shaderOutputViewportIndex              : 1
+info:    shaderOutputLayer                      : 1
+info:    vulkanMemoryModel                      : 1
+info:  Vulkan 1.3
+info:    robustImageAccess                      : 0
+info:    pipelineCreationCacheControl           : 1
+info:    shaderDemoteToHelperInvocation         : 1
+info:    shaderZeroInitializeWorkgroupMemory    : 0
+info:    synchronization2                       : 1
+info:    dynamicRendering                       : 1
+info:  VK_AMD_shader_fragment_mask
+info:    extension supported                    : 0
+info:  VK_EXT_attachment_feedback_loop_layout
+info:    attachmentFeedbackLoopLayout           : 0
+info:  VK_EXT_conservative_rasterization
+info:    extension supported                    : 1
+info:  VK_EXT_custom_border_color
+info:    customBorderColors                     : 1
+info:    customBorderColorWithoutFormat         : 1
+info:  VK_EXT_depth_clip_enable
+info:    depthClipEnable                        : 1
+info:  VK_EXT_extended_dynamic_state3
+info:    extendedDynamicState3DepthClipEnable   : 0
+info:  VK_EXT_fragment_shader_interlock
+info:    fragmentShaderSampleInterlock          : 1
+info:    fragmentShaderPixelInterlock           : 1
+info:  VK_EXT_full_screen_exclusive
+info:    extension supported                    : 0
+info:  VK_EXT_graphics_pipeline_library
+info:    graphicsPipelineLibrary                : 1
+info:  VK_EXT_memory_budget
+info:    extension supported                    : 1
+info:  VK_EXT_memory_priority
+info:    memoryPriority                         : 0
+info:  VK_EXT_non_seamless_cube_map
+info:    nonSeamlessCubeMap                     : 0
+info:  VK_EXT_robustness2
+info:    robustBufferAccess2                    : 1
+info:    robustImageAccess2                     : 1
+info:    nullDescriptor                         : 1
+info:  VK_EXT_shader_module_identifier
+info:    shaderModuleIdentifier                 : 1
+info:  VK_EXT_shader_stencil_export
+info:    extension supported                    : 0
+info:  VK_EXT_transform_feedback
+info:    transformFeedback                      : 1
+info:    geometryStreams                        : 1
+info:  VK_EXT_vertex_attribute_divisor
+info:    vertexAttributeInstanceRateDivisor     : 1
+info:    vertexAttributeInstanceRateZeroDivisor : 1
+info:  VK_KHR_external_memory_win32
+info:    extension supported                    : 1
+info:  VK_KHR_external_semaphore_win32
+info:    extension supported                    : 1
+info:  VK_NVX_binary_import
+info:    extension supported                    : 1
+info:  VK_NVX_image_view_handle
+info:    extension supported                    : 1
+info:  Queue families:
+info:    Graphics : 0
+info:    Transfer : 1
+info:    Sparse   : 0
+info:  Memory type mask for sparse resources: 0x2
+warn:  DXVK: No state cache file found
+warn:  DXVK: Creating new state cache file
+info:  DXVK: Graphics pipeline libraries supported
+info:  DXGI: NvAPI workaround enabled, reporting AMD GPU
+info:  DXGI: NvAPI workaround enabled, reporting AMD GPU
+warn:  D3D11Texture2D::QueryInterface: Unknown interface query
+warn:  9d8e1289-d7b3-465f-8126-250e349af85d
+0324:err:ole:com_get_class_object apartment not initialised
+[1231/222705.655:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 355
+[2023-01-01T03:27:06,900][  0][LogAudio][Display]Initializing Audio Device Manager...
+[2023-01-01T03:27:06,901][  0][LogAudio][Warning]Audio Device Manager Initialization Failed!
+[2023-01-01T03:27:06,901][  0][LogAudio][Display]Beginning Audio Device Manager Shutdown (Module: )...
+[2023-01-01T03:27:13,179][  0][LogScript][Warning]Script Msg: No world was found for object (/Game/UI/HUD/Notifications/HUD_error_banner_bpw.HUD_error_banner_bpw_C:WidgetTree.TopIcon) passed in to UEngine::GetWorldFromContextObject().
+[2023-01-01T03:27:13,179][  0][LogScript][Warning]Script Msg: No world was found for object (/Game/UI/HUD/Notifications/HUD_banner_bpw.HUD_banner_bpw_C:WidgetTree.TopIcon) passed in to UEngine::GetWorldFromContextObject().
+[2023-01-01T03:27:13,260][  0][LogScript][Warning]Script Msg: No world was found for object (/Game/UI/PlayerMenus/Journal/w_reward_item_with_name.w_reward_item_with_name_C:WidgetTree.Icon) passed in to UEngine::GetWorldFromContextObject().
+[2023-01-01T03:27:13,717][  0][LogDataTable][Warning]UDataTable::FindRow : 'UArchonCatalog::AddToQuestRewards' requested invalid row 'None' from DataTable '/Game/Gameplay/Backend/Catalogs/crafting_unlock_criteria.crafting_unlock_criteria'.
+[2023-01-01T03:27:13,722][  0][LogDataTable][Warning]UDataTable::FindRow : 'UArchonCatalog::AddToQuestRewards' requested invalid row 'None' from DataTable '/Game/Gameplay/Backend/Catalogs/crafting_unlock_criteria.crafting_unlock_criteria'.
+[2023-01-01T03:27:13,887][  0][LogVoiceEncode][Display]EncoderVersion: libopus 1.1-beta
+[2023-01-01T03:27:13,889][  0][LogInit][Display]Game Engine Initialized.
+[2023-01-01T03:27:13,910][  0][LogInit][Display]Starting Game.
+[2023-01-01T03:27:14,172][  0][LogGameMode][Display]Match State Changed from EnteringMap to WaitingToStart
+[2023-01-01T03:27:14,172][  0][LogGameMode][Display]Match State Changed from WaitingToStart to InProgress
+[2023-01-01T03:27:14,182][  0][LogViewport][Display]Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023-01-01T03:27:14,182][  0][LogViewport][Display]Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023-01-01T03:27:14,182][  0][ArchonLog][Warning]UI Screen does not have a valid default focusable widget: [PressStartScreen_bps_C_2147480818]
+[2023-01-01T03:27:14,183][  0][LogPhoenixVoip][Warning]Can't Internal_UpdateCurrentChannel - not initialized
+[2023-01-01T03:27:14,183][  0][ArchonLog][Warning]QueryMenuEntitlements: The authorization token has not been set
+03e8:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 00000000D07DFF80
+03ec:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 00000000D1B5FF80
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1916x1076
+info:    Image count:  3
+info:    Exclusive FS: 1
+[2023-01-01T03:27:17,945][  0][LogRHI][Display]ShaderPipelineCache: Paused Batching. 1
+[2023-01-01T03:27:17,945][  0][LogRemoteSession][Error]Failed to start host listening on port 2049
+[2023-01-01T03:27:17,945][  0][LogRHI][Display]ShaderPipelineCache: Resumed Batching. 0
+[2023-01-01T03:27:17,945][  0][LogRHI][Display]ShaderPipelineCache: Batching Resumed.
+[2023-01-01T03:27:17,945][  0][LogInit][Display]Engine is initialized. Leaving FEngineLoop::Init()
+040c:fixme:kernelbase:AppPolicyGetThreadInitializationType FFFFFFFFFFFFFFFA, 000000004806FF50
+[2023-01-01T03:27:17,968][  0][LogEasyAntiCheatClient][Warning]Client integrity violation. Type: 1, ViolationCause: , Message: Easy Anti-Cheat Hash Catalogue not found
+[2023-01-01T03:27:17,969][  0][ArchonLog][Warning]UI Screen does not have a valid default focusable widget: [generic_popup_bpw_C_2147480727]
+[2023-01-01T03:27:17,991][  1][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:18,017][  1][LogStreaming][Display]Resuming async loading (0)
+[2023-01-01T03:27:18,111][  1][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:18,148][  1][LogStreaming][Display]Resuming async loading (0)
+[2023-01-01T03:27:18,202][  1][ArchonLog][Warning]UI focus was lost from [generic_popup_bpw_C_2147480727]!  Attempted to fix by focusing: [SObjectWidget []].  Previous focus was: [SObjectWidget []].
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1916x1076
+info:    Image count:  3
+info:    Exclusive FS: 1
+[2023-01-01T03:27:22,418][240][ArchonLog][Error]UArchonViewModel::InitializeForPlayer: AArchonPlayerController is invalid
+[2023-01-01T03:27:22,616][252][ArchonLog][Error]UArchonViewModel::InitializeForPlayer: AArchonPlayerController is invalid
+[2023-01-01T03:27:22,616][252][ArchonLog][Error]UArchonViewModel::InitializeForPlayer: AArchonPlayerController is invalid
+[2023-01-01T03:27:22,616][252][ArchonLog][Error]UArchonViewModel::InitializeForPlayer: AArchonPlayerController is invalid
+[2023-01-01T03:27:23,100][281][LogPhoenixTracking][Error]Heartbeat failed! Status: 401
+[2023-01-01T03:27:24,384][358][LogOnlineIdentity][Display]FOnlineIdentityPhoenix - LoginCompleteCallbacksFinished : RML53IMMZFASPIT2TEFHKOX3GU
+[2023-01-01T03:27:24,390][358][LogXmpp][Warning]Login failed. Invalid Jid 
+[2023-01-01T03:27:24,484][364][LogOnline][Display]FOnlineUserPhoenix::OnQueryUserInfoComplete - Batch Succeeded, Total = 1, FailureCount = 0
+[2023-01-01T03:27:24,717][378][LogPhoenixGuild][Error]OnGetGuildComplete - OnlinePhoenix::Parse failed - Message: ParseError
+[2023-01-01T03:27:25,418][420][LogOnline][Display]FOnlineUserPhoenix::OnQueryUserInfoComplete - Batch Succeeded, Total = 4, FailureCount = 0
+[2023-01-01T03:27:25,984][454][ArchonLog][Display]Matchmaking: Main Menu Initiating Travel to City
+[2023-01-01T03:27:25,984][454][ArchonLog][Display]Matchmaking: UArchonOnlineSessionClient requesting TravelToCity
+[2023-01-01T03:27:26,084][460][LogOnline][Display]FOnlineUserPhoenix::OnQueryUserInfoComplete - Batch Succeeded, Total = 20, FailureCount = 0
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:2BEAH...H4C2A] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:E6UXQ...MN7M4] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:BDAEC...MI3I4] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:CUSEE...2AUMA] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:V2YUR...PIHVI] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:347IN...7F35I] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:JDYUX...WCGZU] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:Q66VE...MLQVY] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:Y5O7I...HFB5E] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:JMWQN...D5WNY] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:U5Q6X...3WWXQ] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:K2RBB...4OUYQ] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:JEJPQ...SFAQU] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:SJS7F...RJILM] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:7ODHL...LSLPE] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:AKB2S...DCCXI] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:K7EYA...YYVFE] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:QPUUD...TEDHE] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:BO4HU...7ALJY] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,152][464][LogParty][Warning]SocialUser [Phoenix:ZYL6N...WPQDU] is establishing new recent player info on [Primary], but the existing info is still valid.
+[2023-01-01T03:27:26,317][474][LogOnline][Warning]OSS: Invalid serialized json in FVariantData: 2
+[2023-01-01T03:27:26,317][474][LogOnline][Warning]OSS: Invalid serialized json in FVariantData: 2733.678803
+[2023-01-01T03:27:26,317][474][LogOnline][Warning]OSS: Invalid serialized json in FVariantData: 8
+[2023-01-01T03:27:26,317][474][LogOnline][Warning]OSS: Invalid serialized json in FVariantData: 11
+[2023-01-01T03:27:28,017][576][LogAkAudio][Display]Audio Banks - Of 291 banks, 110 were loaded, 4 unloaded for the game state change.
+[2023-01-01T03:27:28,019][576][LogDataTable][Warning]UDataTable::FindRow : 'GetKeyInfo' requested invalid row 'None' from DataTable '/Game/UI/Globals/InputKeys/ui_input_keys.ui_input_keys'.
+[2023-01-01T03:27:28,019][576][ArchonLog][Error]UArchonGameInstance::GetKeyInfo - Could not find key info for input key named None. Make sure to name the row the same as the input key's FName!
+[2023-01-01T03:27:28,019][576][LogAkAudio][Display]Audio Banks - Of 291 banks, 110 were loaded, 4 unloaded for the game state change.
+[2023-01-01T03:27:28,032][576][LogGameMode][Display]Match State Changed from InProgress to LeavingMap
+[2023-01-01T03:27:28,032][576][LogStreaming][Display]FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023-01-01T03:27:28,032][576][LogStreaming][Error]Couldn't find file for package /Script/OnlineSubsystemEOS requested by async loading code. NameToLoad: /Script/OnlineSubsystemEOS
+[2023-01-01T03:27:28,032][576][LogStreaming][Error]This will hitch streaming because it ends up searching the disk instead of finding the file in the pak file.
+[2023-01-01T03:27:28,032][576][LogStreaming][Error]Found 0 dependent packages...
+[2023-01-01T03:27:29,511][657][LogNet][Error]UEngine::BroadcastNetworkFailure: FailureType = PendingConnectionFailure, ErrorString = [ServerVerifyChallenge], Driver = PendingNetDriver IpNetDriver_2147480603
+[2023-01-01T03:27:29,511][657][LogNet][Warning]Network Failure: PendingNetDriver[PendingConnectionFailure]: [ServerVerifyChallenge]
+[2023-01-01T03:27:29,511][657][ArchonLog][Warning]Disconnect Error Message: A network connection could not be established.  Please check your network connection.
+[2023-01-01T03:27:29,511][657][LogGameMode][Display]Match State Changed from LeavingMap to Aborted
+[2023-01-01T03:27:29,511][657][LogOnline][Warning]PHOENIX: Can't destroy a null online session (GameSession)
+[2023-01-01T03:27:29,527][658][LogGameMode][Display]Match State Changed from Aborted to LeavingMap
+[2023-01-01T03:27:29,564][658][LogStreaming][Display]FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023-01-01T03:27:29,571][658][LogGameMode][Display]Match State Changed from EnteringMap to WaitingToStart
+[2023-01-01T03:27:29,571][658][LogGameMode][Display]Match State Changed from WaitingToStart to InProgress
+[2023-01-01T03:27:30,567][658][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:30,601][658][LogStreaming][Display]Resuming async loading (0)
+[2023-01-01T03:27:30,706][658][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:30,741][658][LogStreaming][Display]Resuming async loading (0)
+[2023-01-01T03:27:30,788][658][ArchonLog][Warning]UI focus was lost from [loading_screen_C_2147480610]!  Attempted to fix by focusing: [SObjectWidget []].  Previous focus was: [SViewport []].
+info:  Presenter: Actual swap chain properties:
+info:    Format:       VK_FORMAT_B8G8R8A8_UNORM
+info:    Present mode: VK_PRESENT_MODE_IMMEDIATE_KHR
+info:    Buffer size:  1916x1076
+info:    Image count:  3
+info:    Exclusive FS: 1
+[2023-01-01T03:27:30,831][660][ArchonLog][Warning]OnQueryMenuEntitlements: Could not get an ArchonPlayerState reference, skipping store entitlements check
+[2023-01-01T03:27:33,133][799][LogInit][Display]PreExit Game.
+[2023-01-01T03:27:33,135][799][LogOnlineIdentity][Display]FOnlineIdentityPhoenix - Logout : RML53IMMZFASPIT2TEFHKOX3GU
+[2023-01-01T03:27:33,774][799][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:33,778][799][LogStreaming][Display]Resuming async loading (0)
+[2023-01-01T03:27:33,779][799][LogStreaming][Display]Suspending async loading (1)
+[2023-01-01T03:27:33,814][799][LogStreaming][Display]Resuming async loading (0)
+0118:fixme:msctf:ThreadMgr_Destructor Left Over ITfDocumentMgr.  Should we do something with it?
+Shutting down and abandoning module Stomp (349)
+Shutting down and abandoning module ArchonOutcrop (347)
+Shutting down and abandoning module WmfMediaFactory (345)
+Shutting down and abandoning module WebMMediaFactory (343)
+Last message repeated 23 times...
+Shutting down the Houdini Engine module.
+Shutting down and abandoning module GooglePAD (297)
+Shutting down and abandoning module EditableMesh (295)
+Shutting down and abandoning module CustomMeshComponent (293)
+Shutting down and abandoning module CableComponent (291)
+Last message repeated 39 times...
+[2023-01-01T03:27:34,312][799][LogAkAudio][Display]FAkBankManager::ClearLoadedBanks.
+FAkBankManager::ClearLoadedBanks.
+0118:fixme:iphlpapi:CancelIPChangeNotify (overlapped 0000000058004F78): stub
+Audiokinetic Audio Device terminated.
+Shutting down and abandoning module WebBrowserWidget (209)
+Shutting down and abandoning module WebBrowser (208)
+Shutting down and abandoning module SignificanceManager (205)
+Shutting down and abandoning module RuntimePhysXCooking (203)
+Last message repeated 19 times...
+[2023-01-01T03:27:34,337][799][LogGauntlet][Display]Gauntlet Shutdown
+Gauntlet Shutdown
+Shutting down and abandoning module ControlRig (163)
+Shutting down and abandoning module LevelSequence (162)
+Shutting down and abandoning module AnimationSharing (159)
+Shutting down and abandoning module SteelSeriesGameSense (157)
+Last message repeated 6 times...
+[2023-01-01T03:27:34,340][799][LogOnline][Display]PHOENIX: FOnlineSubsystemPhoenix::Shutdown()
+PHOENIX: FOnlineSubsystemPhoenix::Shutdown()
+[2023-01-01T03:27:34,340][799][LogOnline][Display]Sleeping 0.5s to wait for Http retry requests.
+Sleeping 0.5s to wait for Http retry requests.
+OSS: Mcp Shutdown!
+[2023-01-01T03:27:34,924][799][LogContentStreaming][Display]There are 1 unreleased StreamingManagers
+There are 1 unreleased StreamingManagers
+0118:fixme:kernelbase:AppPolicyGetProcessTerminationMethod FFFFFFFFFFFFFFFA, 000000000133FEF8
+Shutdown
+CleanupD3DDevice
+Exiting.

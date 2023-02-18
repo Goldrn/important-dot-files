@@ -1,0 +1,41 @@
+{
+	"Celeste": {
+		"id": "42818",
+		"name": "Celeste",
+		"description": "",
+		"platforms": [
+			"Google Stadia",
+			"Nintendo Switch",
+			"PC",
+			"PlayStation 4",
+			"Xbox One"
+		],
+		"imageUrl": "https://howlongtobeat.com/games/42818_Celeste.jpg",
+		"timeLabels": [
+			[
+				"Main",
+				"Main"
+			],
+			[
+				"Main + Extra",
+				"Main + Extra"
+			],
+			[
+				"Completionist",
+				"Completionist"
+			]
+		],
+		"gameplayMain": 8,
+		"gameplayMainExtra": 14,
+		"gameplayCompletionist": 37,
+		"similarity": 1,
+		"searchTerm": "Celeste",
+		"playableOn": [
+			"Google Stadia",
+			"Nintendo Switch",
+			"PC",
+			"PlayStation 4",
+			"Xbox One"
+		]
+	}
+}

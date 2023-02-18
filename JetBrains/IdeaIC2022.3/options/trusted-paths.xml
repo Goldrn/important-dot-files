@@ -1,0 +1,24 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/programing/java/all-nighter-game-jam" value="true" />
+        <entry key="$USER_HOME$/programing/java/all-nighter-kill-me" value="true" />
+        <entry key="$USER_HOME$/programing/rust" value="true" />
+        <entry key="$USER_HOME$/programing/rust/combat-activity" value="true" />
+        <entry key="$USER_HOME$/programming/java/all-hells-loose" value="true" />
+        <entry key="$USER_HOME$/programming/java/array-test" value="true" />
+        <entry key="$USER_HOME$/programming/java/jfx-test" value="true" />
+        <entry key="$USER_HOME$/programming/java/swing-test" value="true" />
+        <entry key="$USER_HOME$/programming/rust/hitting-activity" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/programming/java" />
+      </list>
+    </option>
+  </component>
+</application>

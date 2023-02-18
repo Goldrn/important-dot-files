@@ -1,0 +1,7 @@
+﻿version: 1.4
+micName: ''
+background: 0
+micVolume: 0.2
+micDelay: 0
+imageSharp: false
+...

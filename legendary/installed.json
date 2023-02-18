@@ -1,0 +1,56 @@
+{
+  "Jackal": {
+    "app_name": "Jackal",
+    "base_urls": [
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default",
+      "https://download.epicgames.com/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default",
+      "https://download2.epicgames.com/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default",
+      "https://download3.epicgames.com/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default",
+      "https://download4.epicgames.com/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-krlzxj88qrtb69fredeuaf887bl5az/Jackal/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Dauntless.exe",
+    "install_path": "/home/goldrn/Games/Heroic/Dauntless",
+    "install_size": 16475341337,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Dauntless",
+    "version": "1.12.4.412990"
+  },
+  "Salt": {
+    "app_name": "Salt",
+    "base_urls": [
+      "https://epicgames-download1.akamaized.net/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default",
+      "https://download.epicgames.com/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default",
+      "https://download2.epicgames.com/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default",
+      "https://download3.epicgames.com/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default",
+      "https://download4.epicgames.com/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default",
+      "https://fastly-download.epicgames.com/Builds/Org/o-82l4kr2zqqhkqqa6mkut4pjx9lma3h/9ae799adceab466a97fbc0408d12c5b8/default"
+    ],
+    "can_run_offline": true,
+    "egl_guid": "",
+    "executable": "Celeste.exe",
+    "install_path": "/home/goldrn/Games/Heroic/Celeste",
+    "install_size": 1171334315,
+    "install_tags": [],
+    "is_dlc": false,
+    "launch_parameters": "",
+    "manifest_path": null,
+    "needs_verification": false,
+    "platform": "Windows",
+    "prereq_info": null,
+    "requires_ot": false,
+    "save_path": null,
+    "title": "Celeste",
+    "version": "1.4.0.0-Windows"
+  }
+}

@@ -1,0 +1,24 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+"http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<Menu>
+  <Name>Applications</Name>
+  <Menu>
+    <Name>wine-wine</Name>
+    <Directory>wine-wine.directory</Directory>
+  <Menu>
+    <Name>wine-Programs</Name>
+    <Directory>wine-Programs.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-SQUARE ENIX</Name>
+    <Directory>wine-Programs-SQUARE ENIX.directory</Directory>
+  <Menu>
+    <Name>wine-Programs-SQUARE ENIX-FINAL FANTASY XIV ONLINE</Name>
+    <Directory>wine-Programs-SQUARE ENIX-FINAL FANTASY XIV ONLINE.directory</Directory>
+    <Include>
+      <Filename>wine-Programs-SQUARE ENIX-FINAL FANTASY XIV ONLINE-FINAL FANTASY XIV System Information.desktop</Filename>
+    </Include>
+  </Menu>
+  </Menu>
+  </Menu>
+  </Menu>
+</Menu>

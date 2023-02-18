@@ -1,0 +1,105 @@
+(22:02:28) INFO:    [Connection]:       Connectivity: check-online
+(22:02:28) INFO:    [Connection]:       Pinging external endpoints
+(22:02:29) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(22:02:29) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(22:02:29) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(22:02:29) WARNING: [Backend]:          Protocol already registered.
+(22:02:29) INFO:    [Connection]:       Connectivity: online
+(22:02:29) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(22:02:29) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(22:02:29) INFO:    [Backend]:          
+
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Arch KERNEL: 6.1.7-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 9.61 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+(22:02:29) INFO:    [Backend]:          Checking for new Heroic Updates
+(22:02:30) INFO:    [Backend]:          Checking for current version changelog
+(22:02:30) INFO:    [Frontend]:         Refreshing Library
+(22:02:30) INFO:    [Legendary]:        Refreshing library...
+(22:02:30) INFO:    [Legendary]:        Refreshing Epic Games...
+(22:02:30) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:02:30) INFO:    [Backend]:          Frontend Ready
+(22:02:30) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(22:02:32) INFO:    [Winetricks]:       Downloading Winetricks
+(22:02:32) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:02:32) INFO:    [Backend]:          Preventing display from sleep
+(22:02:32) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:02:32) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:02:34) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:34) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:35) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:02:35) INFO:    [Backend]:          Starting the Download Queue
+(22:03:21) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:03:21) INFO:    [Frontend]:         Refreshing Library
+(22:03:21) INFO:    [Legendary]:        Refreshing library...
+(22:03:21) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:03:25) INFO:    [Backend]:          Writing config for Salt
+(22:03:25) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton","name":"Proton - Proton - Experimental","type":"proton"} to {"bin":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine","name":"Wine - lutris-GE-Proton7-27-x86_64","type":"wine","lib":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64","lib32":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib","wineserver":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineserver","wineboot":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineboot"}
+(22:03:29) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:03:29) INFO:    [Backend]:          Preventing display from sleep
+(22:03:29) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(22:03:40) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:03:40) INFO:    [DXVKInstaller]:    installing dxvk on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:03:40) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:03:40) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:03:40) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= WINEPREFIX=/home/goldrn/Games/Heroic/Prefixes/Celeste ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64/gstreamer-1.0:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/gstreamer-1.0 WINEDLLPATH=/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64/wine:/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib/wine /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --wine /home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine
+(22:03:48) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:03:48) INFO:    [Frontend]:         Refreshing Library
+(22:03:48) INFO:    [Legendary]:        Refreshing library...
+(22:03:48) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:03:54) INFO:    [Frontend]:         Refreshing wine downloader releases
+(22:03:54) INFO:    [WineDownloader]:   Updating wine versions info
+(22:03:54) INFO:    [WineDownloader]:   Fetching upstream information...
+(22:03:56) INFO:    [Frontend]:         Refreshing wine downloader releases
+(22:03:56) INFO:    [WineDownloader]:   Updating wine versions info
+(22:03:56) INFO:    [WineDownloader]:   Fetching upstream information...
+(22:03:56) INFO:    [WineDownloader]:   wine versions updated
+(22:03:56) INFO:    [Frontend]:         Refreshing wine downloader releases
+(22:03:56) INFO:    [WineDownloader]:   Updating wine versions info
+(22:03:56) INFO:    [WineDownloader]:   Fetching upstream information...
+(22:03:56) INFO:    [Frontend]:         Refreshing wine downloader releases
+(22:03:56) INFO:    [WineDownloader]:   Updating wine versions info
+(22:03:56) INFO:    [WineDownloader]:   Fetching upstream information...
+(22:03:57) INFO:    [WineDownloader]:   wine versions updated
+(22:03:57) INFO:    [WineDownloader]:   wine versions updated
+(22:03:57) INFO:    [WineDownloader]:   wine versions updated
+(22:04:00) INFO:    [WineDownloader]:   Start installation of wine version Wine-GE-Proton7-35
+(22:04:15) INFO:    [WineDownloader]:   Finished installation of wine version Wine-GE-Proton7-35
+(22:04:35) INFO:    [Backend]:          Writing config for Salt
+(22:04:35) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine","name":"Wine - lutris-GE-Proton7-27-x86_64","type":"wine","lib":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib64","lib32":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/lib","wineserver":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineserver","wineboot":"/home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wineboot"} to {"bin":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wine","name":"Wine - Wine-GE-Proton7-35","type":"wine","lib":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib64","lib32":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib","wineserver":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wineserver","wineboot":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wineboot"}
+(22:04:38) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:04:38) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(22:05:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:05) INFO:    [DXVKInstaller]:    installing dxvk on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:05) INFO:    [DXVKInstaller]:    dxvk already installed!
+(22:05:05) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:05) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(22:05:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:05:05) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= WINEPREFIX=/home/goldrn/Games/Heroic/Prefixes/Celeste ORIG_LD_LIBRARY_PATH= LD_LIBRARY_PATH=/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib64:/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib GST_PLUGIN_SYSTEM_PATH_1_0=/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib64/gstreamer-1.0:/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib/gstreamer-1.0 WINEDLLPATH=/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib64/wine:/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib/wine /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --wine /home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wine
+(22:05:13) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:05:13) INFO:    [Frontend]:         Refreshing Library
+(22:05:13) INFO:    [Legendary]:        Refreshing library...
+(22:05:13) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:05:16) INFO:    [Backend]:          Writing config for Salt
+(22:05:16) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wine","name":"Wine - Wine-GE-Proton7-35","type":"wine","lib":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib64","lib32":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/lib","wineserver":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wineserver","wineboot":"/home/goldrn/.config/heroic/tools/wine/Wine-GE-Proton7-35/bin/wineboot"} to {"bin":"/usr/bin/wine","name":"Wine Default - wine-8.0 (Staging)","type":"wine","wineserver":"/usr/bin/wineserver","wineboot":"/usr/bin/wineboot"}
+(22:05:19) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:05:19) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.0 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(22:05:19) DEBUG:   [Backend]:          Running Wine command: wineboot --init
+(22:05:28) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:28) INFO:    [DXVKInstaller]:    installing dxvk on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:28) INFO:    [DXVKInstaller]:    dxvk already installed!
+(22:05:28) INFO:    [DXVKInstaller]:    installing vkd3d on... /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:05:28) INFO:    [DXVKInstaller]:    vkd3d already installed!
+(22:05:28) ERROR:   [Backend]:          Couldn't find all library folders of Wine Default - wine-8.0 (Staging)!
+Missing undefined and/or undefined!
+Falling back to system libraries!
+(22:05:28) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:05:28) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= WINEPREFIX=/home/goldrn/Games/Heroic/Prefixes/Celeste ORIG_LD_LIBRARY_PATH= /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --wine /usr/bin/wine

@@ -1,0 +1,40 @@
+{
+  "defaultSettings": {
+    "checkUpdatesInterval": 10,
+    "enableUpdates": false,
+    "addDesktopShortcuts": false,
+    "addStartMenuShortcuts": false,
+    "autoInstallDxvk": true,
+    "autoInstallVkd3d": true,
+    "addSteamShortcuts": false,
+    "preferSystemLibs": false,
+    "checkForUpdatesOnStartup": true,
+    "customWinePaths": [],
+    "defaultInstallPath": "/home/goldrn/Games/Heroic",
+    "libraryTopSection": "disabled",
+    "defaultSteamPath": "/home/goldrn/.steam/steam",
+    "defaultWinePrefix": "/home/goldrn/Games/Heroic/Prefixes",
+    "hideChangelogsOnStartup": false,
+    "language": "en",
+    "maxWorkers": 0,
+    "minimizeOnLaunch": false,
+    "nvidiaPrime": false,
+    "enviromentOptions": [],
+    "wrapperOptions": [],
+    "showFps": false,
+    "useGameMode": false,
+    "userInfo": {
+      "name": "goldrn"
+    },
+    "wineCrossoverBottle": "Heroic",
+    "winePrefix": "/home/goldrn/.wine",
+    "wineVersion": {
+      "bin": "/usr/bin/wine",
+      "name": "Wine Default - wine-7.22 (Staging)",
+      "type": "wine",
+      "wineserver": "/usr/bin/wineserver",
+      "wineboot": "/usr/bin/wineboot"
+    }
+  },
+  "version": "v0"
+}

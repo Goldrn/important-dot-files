@@ -1,0 +1,215 @@
+{
+  "app_name": "Finch",
+  "app_title": "Killing Floor 2",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "Finch",
+      "asset_id": "Finch",
+      "build_version": "477977-2023_01_23_23h08m05s",
+      "catalog_item_id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "affc33b82405457595a032f00284abd2"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567Ubb7JGylGDZY5rNxhNLYFBxx",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-08-17T00:08:56.681Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{appdata}/../Roaming/KF2/{EpicID}/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "KillingFloor2"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "affc33b82405457595a032f00284abd2"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Killing Floor 2",
+    "developer": "Tripwire Interactive",
+    "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-06-16T21:53:30.068Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Digital Deluxe Upgrade",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "edfcce492c5a4e918f186c0cb191476d",
+        "entitlementType": "AUDIENCE",
+        "esrbGameRatingValue": "MATURE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "edfcce492c5a4e918f186c0cb191476d",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 190,
+            "md5": "017a994c76d3418208f3295ba94c718d",
+            "size": 5661,
+            "type": "ESRB",
+            "uploadedDate": "2020-07-09T12:57:09.907Z",
+            "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/item/KillingFloor2_TripwireInteractive_RA1-396x190-017a994c76d3418208f3295ba94c718d.png",
+            "width": 396
+          }
+        ],
+        "lastModifiedDate": "2022-06-17T18:21:03.043Z",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "status": "ACTIVE",
+        "title": "Digital Deluxe Upgrade Audience",
+        "unsearchable": false,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-01-26T02:09:50.542Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "ArmorySeasonPassAudience",
+        "developer": "Tripwire Interactive",
+        "developerId": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+        "endOfSupport": false,
+        "entitlementName": "1b5af7433b4244e698b6bbe3d8047347",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "1b5af7433b4244e698b6bbe3d8047347",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2022-04-05T19:54:29.000Z",
+        "longDescription": "Armory Season Pass",
+        "mainGameItem": {
+          "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+          "namespace": "affc33b82405457595a032f00284abd2",
+          "unsearchable": false
+        },
+        "namespace": "affc33b82405457595a032f00284abd2",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "ArmorySeasonPassAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b51279fe75d841dd9a0dcb1a1b85bf4b",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "4995a845423263335d529fcae667e979",
+        "size": 542433,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-01-06T20:29:10.701Z",
+        "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/KF2_2560x1440-4995a845423263335d529fcae667e979",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "cc435d1b298b51615ca8dc916d391b68",
+        "size": 592611,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-01-06T20:29:16.467Z",
+        "url": "https://cdn1.epicgames.com/item/affc33b82405457595a032f00284abd2/KF2_1200x1600-cc435d1b298b51615ca8dc916d391b68",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2023-01-06T20:29:18.927Z",
+    "namespace": "affc33b82405457595a032f00284abd2",
+    "releaseInfo": [
+      {
+        "appId": "Finch",
+        "dateAdded": "2019-08-17T00:00:00.000Z",
+        "id": "dd29e7d85855490aa25ff1a276ff00fa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Killing Floor 2",
+    "unsearchable": true
+  }
+}

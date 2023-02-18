@@ -1,0 +1,440 @@
+{
+  "app_name": "2cd446792405468e9e87f67649d864c2",
+  "app_title": "Wargame: Red Dragon",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2cd446792405468e9e87f67649d864c2",
+      "asset_id": "2cd446792405468e9e87f67649d864c2",
+      "build_version": "72352",
+      "catalog_item_id": "0085fd876db94b0cbf2b3ac46c2db99d",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "d66c34349a054c3ea529726a5687520e"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2020-04-30T20:17:42.710Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "WargameRedDragon"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "d66c34349a054c3ea529726a5687520e"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Wargame: Red Dragon",
+    "developer": "Eugen Systems",
+    "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:24:12.624Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Norse Dragons Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "3a482f9364094fc7937c765a6d02e0b7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3a482f9364094fc7937c765a6d02e0b7",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.087Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Norse Dragons Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:21:25.778Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Double Nation Pack: REDS Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "61ec585351b748f98b2ce0875b99eab5",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "61ec585351b748f98b2ce0875b99eab5",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.088Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Double Nation Pack: REDS Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:23:37.620Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Russian Roulette Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "6634f54ddec84989b38df7c310196381",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6634f54ddec84989b38df7c310196381",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.089Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Russian Roulette Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:32:35.357Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "The Millionth Mile Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "6b74985a95ce4066a91389977dd5d953",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6b74985a95ce4066a91389977dd5d953",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.090Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "The Millionth Mile Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:22:21.726Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Nation Pack: Netherlands Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "8e076342c74742b8b56db1866d6a1d53",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8e076342c74742b8b56db1866d6a1d53",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.092Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Nation Pack: Netherlands Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:21:53.034Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Nation Pack: Israel Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "98f0ce1aeeb4492494327c35d8d5f592",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "98f0ce1aeeb4492494327c35d8d5f592",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.094Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Nation Pack: Israel Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2020-10-07T19:27:37.052Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Second Korean War DLC Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "a105527cb0a24c8a8f1691539088acca",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a105527cb0a24c8a8f1691539088acca",
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-03-04T15:50:47.095Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Second Korean War DLC Audience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-04-27T23:16:10.194Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "South Africa Audience",
+        "developer": "Eugen Systems",
+        "developerId": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+        "endOfSupport": false,
+        "entitlementName": "86ef44b91f214e26bbd29761c16b8939",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "86ef44b91f214e26bbd29761c16b8939",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "keyImages": [],
+        "lastModifiedDate": "2021-09-30T14:28:16.506Z",
+        "mainGameItem": {
+          "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+          "namespace": "d66c34349a054c3ea529726a5687520e",
+          "unsearchable": false
+        },
+        "namespace": "d66c34349a054c3ea529726a5687520e",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "South Africa Audience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "0085fd876db94b0cbf2b3ac46c2db99d",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "0085fd876db94b0cbf2b3ac46c2db99d",
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "300f7ef2c4b0f994757eddac0c1d7b8b",
+        "size": 945614,
+        "type": "DieselGameBox",
+        "uploadedDate": "2020-10-23T23:11:29.554Z",
+        "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S1-2560x1440-300f7ef2c4b0f994757eddac0c1d7b8b.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "7afd0dc5cde72330c4318d84ae9e07c4",
+        "size": 813218,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2020-10-23T23:11:50.661Z",
+        "url": "https://cdn1.epicgames.com/d66c34349a054c3ea529726a5687520e/item/EGS_WargameRedDragon_EugenSystems_S2-1200x1600-7afd0dc5cde72330c4318d84ae9e07c4.jpg",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2021-03-04T15:50:47.080Z",
+    "namespace": "d66c34349a054c3ea529726a5687520e",
+    "releaseInfo": [
+      {
+        "appId": "2cd446792405468e9e87f67649d864c2",
+        "dateAdded": "2020-04-30T00:00:00.000Z",
+        "id": "a5fa4bb50b8a48c7afd0141239dfcefa",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Wargame: Red Dragon",
+    "unsearchable": true
+  }
+}

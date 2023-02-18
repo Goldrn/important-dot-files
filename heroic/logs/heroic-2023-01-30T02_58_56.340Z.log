@@ -1,0 +1,144 @@
+(21:58:56) INFO:    [Connection]:       Connectivity: check-online
+(21:58:56) INFO:    [Connection]:       Pinging external endpoints
+(21:58:56) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(21:58:56) INFO:    [Legendary]:        Legendary location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(21:58:56) INFO:    [Gog]:              GOGDL location: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(21:58:56) WARNING: [Backend]:          Protocol already registered.
+(21:58:56) INFO:    [Gog]:              Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --version
+(21:58:56) INFO:    [Connection]:       Connectivity: online
+(21:58:56) INFO:    [Backend]:          User Not Found, removing it from Store
+(21:58:56) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(21:58:57) INFO:    [Backend]:          
+
+Heroic Version: 2.5.2 Yamato
+Legendary Version:  0.20.31 Dark Energy (hotfix #5)
+GOGdl Version: 0.5
+OS: Arch KERNEL: 6.1.7-arch1-1 ARCH: x64
+CPU: AMD Ryzen 7 2700X Eight-Core Processor @3.7 GOVERNOR: schedutil
+RAM: Total: 15.57 GiB Available: 9.76 GiB
+GRAPHICS: GPU0: NVIDIA GeForce GTX 1660 Ti VRAM: 6144MB DRIVER: 525.85.05 
+PROTOCOL: x11
+
+(21:58:57) INFO:    [Backend]:          Checking for new Heroic Updates
+(21:58:57) INFO:    [Backend]:          Frontend Ready
+(21:58:57) INFO:    [Backend]:          Checking for current version changelog
+(21:58:59) INFO:    [Winetricks]:       Downloading Winetricks
+(21:59:02) INFO:    [Backend]:          Starting the Download Queue
+(21:59:17) INFO:    [Legendary]:        Logging in: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(21:59:18) INFO:    [Frontend]:         Refreshing Library
+(21:59:18) INFO:    [Legendary]:        Refreshing library...
+(21:59:18) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:59:18) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(21:59:18) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(21:59:18) INFO:    [Legendary]:        Refreshing library...
+(21:59:18) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(21:59:19) INFO:    [Frontend]:         Force Update
+(21:59:19) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:59:22) INFO:    [Frontend]:         Refreshing Library
+(21:59:22) INFO:    [Legendary]:        Refreshing library...
+(21:59:22) INFO:    [Legendary]:        Refreshing Epic Games...
+(21:59:22) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(21:59:22) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(21:59:32) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(21:59:32) DEBUG:   [Backend]:          {"free":472332210176,"diskSize":983138598912,"message":"439.89 GiB / 915.62 GiB","validPath":true}
+(21:59:32) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Salt --platform Windows --json
+(21:59:35) DEBUG:   [Backend]:          {"free":472332734464,"diskSize":983138598912,"message":"439.89 GiB / 915.62 GiB","validPath":true}
+(21:59:38) INFO:    [Backend]:          Writing config for Salt
+(21:59:38) INFO:    [Backend]:          Changed config: wineVersion from {"bin":"/usr/bin/wine","name":"Wine Default - wine-7.22 (Staging)","type":"wine","wineserver":"/usr/bin/wineserver","wineboot":"/usr/bin/wineboot"} to {"bin":"/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton","name":"Proton - Proton - Experimental","type":"proton"}
+(21:59:38) INFO:    [DownloadManager]:  Salt added to download manager queue.
+(21:59:38) DEBUG:   [Legendary]:        Using cached install info
+(21:59:38) INFO:    [Backend]:          Preventing machine to sleep
+(21:59:38) DEBUG:   [Legendary]:        Using cached install info
+(21:59:38) INFO:    [Legendary]:        Installing Salt: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary install Salt --platform Windows --base-path /home/goldrn/Games/Heroic --skip-dlcs --skip-sdl -y
+(21:59:38) DEBUG:   [Legendary]:        Logging to file "/home/goldrn/.config/heroic/GamesConfig/Salt.log"
+(21:59:39) INFO:    [Legendary]:        Progress for Salt: 0%/0.00MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:43) INFO:    [Legendary]:        Progress for Salt: 6.08%/49.71MiB/00:01:24 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:45) INFO:    [Legendary]:        Progress for Salt: 9.47%/77.37MiB/00:01:30 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:46) INFO:    [Legendary]:        Progress for Salt: 11.2%/91.54MiB/00:01:39 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:47) INFO:    [Legendary]:        Progress for Salt: 12.84%/104.95MiB/00:01:37 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:48) INFO:    [Legendary]:        Progress for Salt: 14.43%/117.92MiB/00:01:46 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:49) INFO:    [Legendary]:        Progress for Salt: 16.5%/134.87MiB/00:01:43 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:50) INFO:    [Legendary]:        Progress for Salt: 17.97%/146.84MiB/00:01:49 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:51) INFO:    [Legendary]:        Progress for Salt: 19.67%/160.81MiB/00:01:49 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:52) INFO:    [Legendary]:        Progress for Salt: 21.63%/176.77MiB/00:01:53 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:53) INFO:    [Legendary]:        Progress for Salt: 23.09%/188.74MiB/00:01:54 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:55) INFO:    [Legendary]:        Progress for Salt: 26.51%/216.67MiB/00:01:58 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:57) INFO:    [Legendary]:        Progress for Salt: 29.81%/243.65MiB/00:01:57 Down: 0MiB/s / Disk: 0MiB/s
+(21:59:59) INFO:    [Legendary]:        Progress for Salt: 32.97%/269.47MiB/00:02:03 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:00) INFO:    [Legendary]:        Progress for Salt: 35.05%/286.46MiB/00:02:10 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:01) INFO:    [Legendary]:        Progress for Salt: 36.82%/300.99MiB/00:02:16 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:02) INFO:    [Legendary]:        Progress for Salt: 38.65%/315.95MiB/00:02:22 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:03) INFO:    [Legendary]:        Progress for Salt: 40%/326.94MiB/00:01:58 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:04) INFO:    [Legendary]:        Progress for Salt: 41.83%/341.93MiB/00:01:58 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:05) INFO:    [Legendary]:        Progress for Salt: 43.42%/354.92MiB/00:02:01 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:09) INFO:    [Legendary]:        Progress for Salt: 50.46%/412.41MiB/00:01:55 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:10) INFO:    [Legendary]:        Progress for Salt: 52.41%/428.41MiB/00:01:58 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:13) INFO:    [Legendary]:        Progress for Salt: 57.75%/472.04MiB/00:01:54 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:14) INFO:    [Legendary]:        Progress for Salt: 59.43%/485.77MiB/00:01:54 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:15) INFO:    [Legendary]:        Progress for Salt: 61.02%/498.74MiB/00:01:50 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:20) INFO:    [Legendary]:        Progress for Salt: 69.06%/564.50MiB/00:01:45 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:21) INFO:    [Legendary]:        Progress for Salt: 70.77%/578.47MiB/00:01:44 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:22) INFO:    [Legendary]:        Progress for Salt: 72.35%/591.40MiB/00:01:45 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:23) INFO:    [Legendary]:        Progress for Salt: 74.04%/605.20MiB/00:01:42 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:25) INFO:    [Legendary]:        Progress for Salt: 77.96%/637.22MiB/00:01:20 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:26) INFO:    [Legendary]:        Progress for Salt: 79.5%/649.77MiB/00:01:14 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:27) INFO:    [Legendary]:        Progress for Salt: 81.04%/662.36MiB/00:01:11 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:29) INFO:    [Legendary]:        Progress for Salt: 84.48%/690.53MiB/00:01:01 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:32) INFO:    [Legendary]:        Progress for Salt: 89.19%/729.00MiB/00:00:49 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:33) INFO:    [Legendary]:        Progress for Salt: 91.04%/744.12MiB/00:00:46 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:35) INFO:    [Legendary]:        Progress for Salt: 94.45%/772.03MiB/00:00:41 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:36) INFO:    [Legendary]:        Progress for Salt: 95.83%/783.28MiB/00:00:11 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:37) INFO:    [Legendary]:        Progress for Salt: 97.35%/795.71MiB/00:00:05 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:38) INFO:    [Legendary]:        Progress for Salt: 98.83%/807.78MiB/00:00:02 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:39) INFO:    [Legendary]:        Progress for Salt: 100%/817.36MiB/00:00:00 Down: 0MiB/s / Disk: 0MiB/s
+(22:00:40) INFO:    [Legendary]:        installed.json updated, refreshing library
+(22:00:40) INFO:    [Legendary]:        installed.json updated, refreshing library
+(22:00:41) INFO:    [Backend]:          Adding shortcuts for Celeste
+(22:00:41) INFO:    [DownloadManager]:  Finished installing of Salt
+(22:00:41) INFO:    [DownloadManager]:  Salt added to download manager finished.
+(22:00:41) INFO:    [DownloadManager]:  Salt removed from download manager.
+(22:00:41) INFO:    [Frontend]:         Refreshing Library
+(22:00:41) INFO:    [Legendary]:        Refreshing library...
+(22:00:41) INFO:    [Legendary]:        Game list updated, got 234 games & DLCs
+(22:00:53) INFO:    [Legendary]:        Checking if EOS Overlay is enabled: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary eos-overlay info --prefix /home/goldrn/Games/Heroic/Prefixes/Celeste/pfx
+(22:00:53) INFO:    [Backend]:          Getting HowLongToBeat data for Celeste
+(22:00:53) DEBUG:   [Legendary]:        Using cached install info
+(22:00:53) DEBUG:   [Legendary]:        Using cached install info
+(22:00:55) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:00:55) INFO:    [Backend]:          Preventing display from sleep
+(22:00:55) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:00:55) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:00:58) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:00:58) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:00:58) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:00:58) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:00:58) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:00:58) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:01:01) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:01:01) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:01:01) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:01:02) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:01:02) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:01:02) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:01:02) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:01:02) INFO:    [Backend]:          Launching Celeste (Salt)
+(22:01:02) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:01:02) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:01:02) WARNING: [Backend]:          You are using Proton, this can lead to some bugs. Please do not open issues with bugs related to games
+(22:01:02) DEBUG:   [Backend]:          Running Wine command: run wineboot --init
+(22:02:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:05) INFO:    [Backend]:          Stopping Display Power Saver Blocker
+(22:02:05) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:02:05) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:02:05) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:02:05) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"
+(22:02:05) INFO:    [Backend]:          Created/Updated Wineprefix at /home/goldrn/Games/Heroic/Prefixes/Celeste
+(22:02:05) INFO:    [Legendary]:        Running command: /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --json --offline
+(22:02:06) INFO:    [Legendary]:        Launching Celeste: LD_PRELOAD= STEAM_COMPAT_CLIENT_INSTALL_PATH=/home/goldrn/.steam/steam STEAM_COMPAT_DATA_PATH=/home/goldrn/Games/Heroic/Prefixes/Celeste PROTON_NO_ESYNC=1 PROTON_NO_FSYNC=1 STEAM_COMPAT_APP_ID=0 SteamAppId=0 SteamGameId=heroic-Celeste PROTON_LOG_DIR=/home/goldrn /opt/heroic/resources/app.asar.unpacked/build/bin/linux/legendary launch Salt --language en --no-wine --wrapper "'/home/goldrn/.local/share/Steam/steamapps/common/Proton - Experimental/proton' run"

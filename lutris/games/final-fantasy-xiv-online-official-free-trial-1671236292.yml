@@ -1,0 +1,53 @@
+game:
+  arch: win64
+  exe: drive_c/Program Files (x86)/SquareEnix/FINAL FANTASY XIV - A Realm Reborn/boot/ffxivboot.exe
+  prefix: /home/goldrn/Games/final-fantasy-xiv-online
+game_slug: final-fantasy-xiv-online
+name: FINAL FANTASY XIV Online
+requires: null
+script:
+  files:
+  - ffxivinstaller: https://gdl.square-enix.com/ffxiv/inst/ffxivsetup_ft.exe
+  game:
+    arch: win64
+    exe: drive_c/Program Files (x86)/SquareEnix/FINAL FANTASY XIV - A Realm Reborn/boot/ffxivboot.exe
+    prefix: $GAMEDIR
+  installer:
+  - task:
+      arch: win64
+      env:
+        __GL_SHADER_DISK_CACHE: '1'
+        __GL_SHADER_DISK_CACHE_PATH: /home/goldrn/Games/final-fantasy-xiv-online
+      executable: /home/goldrn/.cache/lutris/installer/final-fantasy-xiv-online/ffxivinstaller/ffxivsetup_ft.exe
+      prefix: /home/goldrn/Games/final-fantasy-xiv-online
+      wine_path: /home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine
+  - task:
+      arch: win64
+      key: HideWineExports
+      path: HKEY_CURRENT_USER\Software\Wine
+      prefix: /home/goldrn/Games/final-fantasy-xiv-online
+      type: REG_SZ
+      value: Y
+      wine_path: /home/goldrn/.local/share/lutris/runners/wine/lutris-GE-Proton7-27-x86_64/bin/wine
+  system:
+    env:
+      __GL_SHADER_DISK_CACHE: 1
+      __GL_SHADER_DISK_CACHE_PATH: $GAMEDIR
+    pulse_latency: true
+  wine:
+    dxvk: true
+    esync: true
+    version: lutris-GE-Proton7-27-x86_64
+slug: final-fantasy-xiv-online-official-free-trial
+system:
+  env:
+    __GL_SHADER_DISK_CACHE: '1'
+    __GL_SHADER_DISK_CACHE_PATH: /home/goldrn/Games/final-fantasy-xiv-online
+  pulse_latency: true
+variables: {}
+version: Official - Free Trial
+wine:
+  dxvk: true
+  esync: true
+  version: lutris-GE-Proton7-27-x86_64
+year: 2014

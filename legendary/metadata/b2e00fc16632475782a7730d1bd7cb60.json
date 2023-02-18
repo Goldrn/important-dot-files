@@ -1,0 +1,295 @@
+{
+  "app_name": "b2e00fc16632475782a7730d1bd7cb60",
+  "app_title": "Frostpunk",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "b2e00fc16632475782a7730d1bd7cb60",
+      "asset_id": "b2e00fc16632475782a7730d1bd7cb60",
+      "build_version": "0.0.10",
+      "catalog_item_id": "5729e4a7132e4e078cec459b281dae8e",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "be886d9db65047a89b24cd4317695f18"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "fghi4567DL9AT4gnxwfbNOQn0C3DZQDh",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-09-12T18:13:09.933Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudExcludeList": {
+        "type": "STRING",
+        "value": "config.bin, iPhoneProfiles"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/../Roaming/11bitstudios/Frostpunk/"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Frostpunk"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "5000"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "be886d9db65047a89b24cd4317695f18"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Frostpunk",
+    "developer": "11 Bit Studios",
+    "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-13T17:13:39.528Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RazorbillRiftsAudience",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "ded687b2683e4bcfb6512f1c2373188a",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ded687b2683e4bcfb6512f1c2373188a",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-06-03T14:38:20.644Z",
+        "mainGameItem": {
+          "id": "5729e4a7132e4e078cec459b281dae8e",
+          "namespace": "be886d9db65047a89b24cd4317695f18",
+          "unsearchable": false
+        },
+        "namespace": "be886d9db65047a89b24cd4317695f18",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RazorbillRiftsAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-13T17:14:27.261Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RazorbillLastAutumnAudience",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "172d2c4cceb9492584faf552d39460f4",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "172d2c4cceb9492584faf552d39460f4",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-06-03T14:38:20.644Z",
+        "mainGameItem": {
+          "id": "5729e4a7132e4e078cec459b281dae8e",
+          "namespace": "be886d9db65047a89b24cd4317695f18",
+          "unsearchable": false
+        },
+        "namespace": "be886d9db65047a89b24cd4317695f18",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RazorbillLastAutumnAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-13T17:15:13.211Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RazorbillOnTheEdgeAudience",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "a0e4d0ca22c34ad4b08335f63ce272c9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a0e4d0ca22c34ad4b08335f63ce272c9",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-06-03T14:38:20.644Z",
+        "mainGameItem": {
+          "id": "5729e4a7132e4e078cec459b281dae8e",
+          "namespace": "be886d9db65047a89b24cd4317695f18",
+          "unsearchable": false
+        },
+        "namespace": "be886d9db65047a89b24cd4317695f18",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RazorbillOnTheEdgeAudience",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2021-05-13T17:16:31.836Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "RazorbillSeasonPassAudience",
+        "developer": "11 Bit Studios",
+        "developerId": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+        "endOfSupport": false,
+        "entitlementName": "4d72b02b581e4b50aa06f9fbc5dae775",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4d72b02b581e4b50aa06f9fbc5dae775",
+        "installModes": [],
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2021-06-03T14:38:20.644Z",
+        "mainGameItem": {
+          "id": "5729e4a7132e4e078cec459b281dae8e",
+          "namespace": "be886d9db65047a89b24cd4317695f18",
+          "unsearchable": false
+        },
+        "namespace": "be886d9db65047a89b24cd4317695f18",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "RazorbillSeasonPassAudience",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "5729e4a7132e4e078cec459b281dae8e",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "5729e4a7132e4e078cec459b281dae8e",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1600,
+        "md5": "c71dc27cfe505c6c662c49011b36a0c5",
+        "size": 835884,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2021-05-28T01:22:01.569Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S2_1200x1600-c71dc27cfe505c6c662c49011b36a0c5",
+        "width": 1200
+      },
+      {
+        "height": 1440,
+        "md5": "ef2f4d458120af0839dde35b1a022828",
+        "size": 890477,
+        "type": "DieselGameBox",
+        "uploadedDate": "2021-05-28T01:22:07.384Z",
+        "url": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Frostpunk_11bitstudios_S1_2560x1440-ef2f4d458120af0839dde35b1a022828",
+        "width": 2560
+      }
+    ],
+    "lastModifiedDate": "2021-06-14T16:28:55.628Z",
+    "namespace": "be886d9db65047a89b24cd4317695f18",
+    "releaseInfo": [
+      {
+        "appId": "b2e00fc16632475782a7730d1bd7cb60",
+        "dateAdded": "2019-10-07T00:00:00.000Z",
+        "id": "09f0280926e546599c459f3ebcff893d",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Frostpunk",
+    "unsearchable": true
+  }
+}
