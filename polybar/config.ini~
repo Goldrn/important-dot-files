@@ -1,0 +1,73 @@
+[bar/bar1]
+monitor = DP-0
+monitor_strict = false
+wm-restack = i3
+separator =
+font-0 = "SourceCodePro:size=10;1"
+font-1 = "SauceCodeProNerdFontPropo-SemiBold:style=Regular:pixelsize=10;1"
+background = #3C4841FF
+height = 15
+modules-left = i3
+modules-right = septhree memory septwo cpu sepone date
+
+[bar/bar2]
+monitor = DP-4
+monitor_strict = false
+wm-restack = i3
+modules-right = date memory
+
+[bar/bar3]
+monitor = HDMI-0
+monitor_strict = false
+wm-restack = i3
+modules-right = date memory
+
+[module/date]
+type = internal/date
+date = %Y-%m-%d%
+time = %H:%M
+label = %date% %time%
+format-background = #5BCEFA
+
+[module/memory]
+type = internal/memory
+label = MEM: %percentage_used%% SWAP: %percentage_swap_used%%
+format-background = #F5A9B8
+
+[module/wired-network]
+type = internal/network
+interface = enp39s0
+
+[module/cpu]
+type = internal/cpu
+label = CPU: %percentage%%
+format-background = #FFFFFF
+format-foreground = #000000
+
+[module/ewmh]
+type = internal/xworkspaces
+
+[module/i3]
+type = internal/i3
+
+[module/sepone]
+type = custom/text
+content = "%{T2} %{T-}"
+content-font = 1
+content-foreground = #5BCEFA
+content-background = #FFFFFF
+
+[module/septwo]
+type = custom/text
+content = "%{T2} %{T-}"
+content-font = 1
+content-foreground = #FFFFFF
+content-background = #F5A9B8
+
+[module/septhree]
+type = custom/text
+content = "%{T2} %{T-}"
+content-font = 1
+content-foreground = #F5A9B8
+content-background = #3C4841FF
+

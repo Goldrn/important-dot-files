@@ -45,7 +45,7 @@ myConfig = def
   `additionalKeysP`
     [ ("M-<Return>", spawn "kitty")
     , ("M-;", spawn "rofi -show run")
-    , ("M-t", spawn "pcmanfm")
+    , ("M-t", spawn "nemo")
     , ("M-c", kill)
     , ("M-f", spawn "firefox")
     , ("M-z", sendMessage ToggleStruts)
@@ -63,7 +63,8 @@ myStartupHook = do
     spawnOnce "~/.fehbg &"
     spawnOnce "picom"
     spawnOnce "lxappearance"
-    spawn "setxkbmap us -variant colemak_dh"
+    spawnOnce "/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1"
+    spawnOnce "udiskie &"
 
 myLayout = smartSpacing 1 $ avoidStrutsOn [U] $ tiled ||| Full
   where
@@ -93,9 +94,9 @@ myXmobarPP = def
     ppWindow = xmobarRaw . (\w -> if null w then "untitled" else w) . shorten 30
 
     blue, lowWhite, magenta, red, white, yellow :: String -> String
-    magenta  = xmobarColor "#b16286" ""
-    blue     = xmobarColor "#458588" ""
+    magenta  = xmobarColor "#FE8DBF" ""
+    blue     = xmobarColor "#5BCEFA" ""
     white    = xmobarColor "#ebdbb2" ""
     yellow   = xmobarColor "#fabd2f" ""
     red      = xmobarColor "#cc241d" ""
-    lowWhite = xmobarColor "#b8bb26" ""
+    lowWhite = xmobarColor "#FFFFFF" ""
